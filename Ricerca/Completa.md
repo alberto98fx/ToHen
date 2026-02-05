@@ -381,16 +381,220 @@ Questo patrimonio concettuale non è solo un capitolo di storia della filosofia.
 
 ## Bibliografia
 
-### Fonti primarie: edizioni critiche
+## Fonti primarie
 
-**Pseudo-Dionigi Areopagita**
-- *De divinis nominibus*, ed. B.R. Suchla, in *Corpus Dionysiacum* I, Berlin-New York, De Gruyter, 1990 (Patristische Texte und Studien, 33).
-- *De mystica theologia*, *De coelesti hierarchia*, *De ecclesiastica hierarchia*, *Epistulae*, ed. G. Heil - A.M. Ritter, in *Corpus Dionysiacum* II, Berlin-New York, De Gruyter, 1991; 2ª ed. 2012 (Patristische Texte und Studien, 36).
+### Edizioni critiche – Tradizione cristiana
 
-**Anselmo d'Aosta**
-- *Opera omnia*, ed. F.S. Schmitt, 6 voll., Seckau-Roma-Edinburgh 1938-1961 (rist. Stuttgart-Bad Cannstatt 1968-1984).
+Alanus de Insulis, _Regulae caelestis iuris_, ed. N.M. Häring, «Archives d'histoire doctrinale et littéraire du moyen âge» 48 (1981), pp. 97-226.
 
-**Alano di Lilla**
-- *Regulae caelestis iuris*, ed. N.M. Häring, «Ar
+Anselmus Cantuariensis, _Opera omnia_, ed. F.S. Schmitt, 6 voll., Seckau-Roma-Edinburgh 1938-1961 (rist. Stuttgart-Bad Cannstatt 1968-1984).
 
-.
+Bonaventura, _Itinerarium mentis in Deum_, in _Opera Omnia_, Quaracchi, Collegium S. Bonaventurae, 1882-1902.
+
+_Corpus Dionysiacum_ I: Pseudo-Dionysius Areopagita, _De divinis nominibus_, ed. B.R. Suchla, Berlin-New York, De Gruyter, 1990 (Patristische Texte und Studien, 33).
+
+_Corpus Dionysiacum_ II: Pseudo-Dionysius Areopagita, _De coelesti hierarchia_, _De ecclesiastica hierarchia_, _De mystica theologia_, _Epistulae_, ed. G. Heil - A.M. Ritter, Berlin-New York, De Gruyter, 1991; 2ª ed. 2012 (Patristische Texte und Studien, 36).
+
+Gregorius Nyssenus, _Contra Eunomium_, in _Gregorii Nysseni Opera_ I-II, ed. W. Jaeger, Leiden, Brill, 1960.
+
+Gregorius Nyssenus, _De vita Moysis_, ed. J. Daniélou, Paris, Cerf, 1955 (Sources Chrétiennes, 1); ed. H. Musurillo, in _Gregorii Nysseni Opera_ VII.1, Leiden, Brill, 1964.
+
+Iohannes Scotus Eriugena, _Periphyseon_, ed. É. Jeauneau, Turnhout, Brepols, 1996-2003 (Corpus Christianorum Continuatio Mediaevalis, 161-165).
+
+_Liber viginti quattuor philosophorum_, ed. F. Hudry, Turnhout, Brepols, 1997 (Corpus Christianorum Continuatio Mediaevalis, 143A).
+
+Maximus Confessor, _Ambigua_, in J.-P. Migne (ed.), _Patrologia Graeca_ 91, Paris, 1865.
+
+Meister Eckhart, _Die deutschen und lateinischen Werke_, hrsg. im Auftrag der Deutschen Forschungsgemeinschaft, Stuttgart, Kohlhammer, 1936-2022.
+
+Origenes, _De Principiis_ (_Traité des principes_), ed. H. Crouzel - M. Simonetti, Paris, Cerf, 1978-1984 (Sources Chrétiennes, 252-253, 268-269, 312).
+
+Thomas de Aquino, _Summa Theologiae_, Roma, Commissio Leonina, 1888-1906 (_Editio Leonina_, voll. 4-12).
+
+### Edizioni critiche – Tradizione buddhista
+
+Candrakīrti, _Prasannapadā_, ed. L. de La Vallée Poussin, St. Petersburg, Académie Impériale des Sciences, 1903-1913 (_Bibliotheca Buddhica_, 4).
+
+Nāgārjuna, _Mūlamadhyamakakārikā_, ed. Ye Shaoyong, Shanghai, Zhongxi Book Company, 2011.
+
+### Edizioni critiche – Tradizione hindu
+
+Śaṅkara, _Brahmasūtrabhāṣya_, Poona, Ānandāśrama Sanskrit Series, 1890-1891.
+
+Śaṅkara, _Upadeśasāhasrī_, ed. S. Mayeda, Delhi, Motilal Banarsidass, 2006 (edizione critica con apparato).
+
+---
+
+## Traduzioni moderne
+
+### Tradizione cristiana
+
+Bonaventure, _The Soul's Journey into God_, trans. E. Cousins, New York, Paulist Press, 1978 (Classics of Western Spirituality).
+
+Dionigi Areopagita, _Tutte le opere_, trad. it. di P. Scazzoso, intr. e note di E. Bellini, Milano, Rusconi, 1981.
+
+Eriugena, _Periphyseon_, trans. I.P. Sheldon-Williams, rev. J.J. O'Meara, Washington, Dumbarton Oaks, 1987- (Dumbarton Oaks Medieval Library).
+
+Gregory of Nyssa, _The Life of Moses_, trans. A.J. Malherbe - E. Ferguson, New York, Paulist Press, 1978 (Classics of Western Spirituality).
+
+Hudry, F., _Le livre des vingt-quatre philosophes_, Paris, Vrin, 2009.
+
+_Il libro dei ventiquattro filosofi_, a cura di P. Lucentini, Milano, Adelphi, 1999 (Piccola Biblioteca Adelphi, 429).
+
+Maximus the Confessor, _On Difficulties in the Church Fathers: The Ambigua_, trans. N. Constas, 2 voll., Cambridge (MA), Harvard University Press, 2014 (Dumbarton Oaks Medieval Library).
+
+Meister Eckhart, _The Essential Sermons, Commentaries, Treatises, and Defense_, trans. E. Colledge - B. McGinn, New York, Paulist Press, 1981 (Classics of Western Spirituality).
+
+Origen, _On First Principles_, trans. G.W. Butterworth, London, SPCK, 1936; repr. New York, Harper & Row, 1966.
+
+Pseudo-Dionysius, _The Complete Works_, trans. C. Luibhéid, New York, Paulist Press, 1987 (Classics of Western Spirituality).
+
+Thomas Aquinas, _Summa Theologiae_, Latin text and English translation, 61 voll., London-New York, Blackfriars/Eyre & Spottiswoode/McGraw-Hill, 1964-1981.
+
+### Tradizione buddhista
+
+Candrakīrti, _Lucid Exposition of the Middle Way_, trans. M. Sprung, Boulder, Prajñā Press, 1979.
+
+Nāgārjuna, _The Fundamental Wisdom of the Middle Way: Nāgārjuna's Mūlamadhyamakakārikā_, trans. J. Garfield, New York, Oxford University Press, 1995.
+
+Nāgārjuna, _Mūlamadhyamakakārikā of Nāgārjuna: The Philosophy of the Middle Way_, trans. D.J. Kalupahana, Albany, SUNY Press, 1986.
+
+Nāgārjuna, _Nāgārjuna's Middle Way: Mūlamadhyamakakārikā_, trans. M. Siderits - Sh. Katsura, Boston, Wisdom Publications, 2013.
+
+Nāgārjuna, _The Dispeller of Disputes: Nāgārjuna's Vigrahavyāvartanī_, trans. J. Westerhoff, New York, Oxford University Press, 2010.
+
+### Tradizione hindu
+
+Śaṅkara, _The Brahma Sūtra: The Philosophy of Spiritual Life_, trans. S. Radhakrishnan, London, Allen & Unwin, 1960.
+
+Śaṅkara, _The Vedānta Sūtras with the Commentary of Śaṅkarācārya_, trans. G. Thibaut, 2 voll., Oxford, Clarendon Press, 1890-1896 (Sacred Books of the East, 34, 38).
+
+Śaṅkara, _Brahma-Sūtra-Bhāṣya_, trans. Swami Gambhīrānanda, Calcutta, Advaita Ashrama, 1965.
+
+Śaṅkara, _The Bṛhadāraṇyaka Upaniṣad with the Commentary of Śaṅkarācārya_, trans. Swami Mādhavānanda, Calcutta, Advaita Ashrama, 1950.
+
+Śaṅkara, _A Thousand Teachings: The Upadeśasāhasrī of Śaṅkara_, trans. S. Mayeda, Delhi, Motilal Banarsidass, 2006.
+
+---
+
+## Letteratura secondaria
+
+### Teologia patristica e medievale
+
+Beierwaltes, W., _Platonismus im Christentum_, Frankfurt a.M., Klostermann, 1998; 3ª ed. ampliata 2014.
+
+Bianchi, L. (a cura di), _La filosofia nelle università: secoli XIII-XIV_, Firenze, La Nuova Italia, 1997.
+
+Carabine, D., _The Unknown God: Negative Theology in the Platonic Tradition. Plato to Eriugena_, Leuven, Peeters, 1995.
+
+Corrigan, K. - Harrington, L.M., "Pseudo-Dionysius the Areopagite", in E.N. Zalta (ed.), _The Stanford Encyclopedia of Philosophy_, Winter 2025 Edition, https://plato.stanford.edu/entries/pseudo-dionysius-areopagite/.
+
+Lossky, V., _Théologie Négative et Connaissance de Dieu chez Maître Eckhart_, Paris, Vrin, 1960; trad. ingl. _Negative Theology and Knowledge of God in Meister Eckhart_, Leuven, Peeters, 2024.
+
+Louth, A., _The Origins of the Christian Mystical Tradition: From Plato to Denys_, Oxford, Oxford University Press, 1981; 2ª ed. 2007.
+
+McGinn, B., _The Mystical Thought of Meister Eckhart: The Man from Whom God Hid Nothing_, New York, Crossroad, 2001.
+
+Tollefsen, T., _The Christocentric Cosmology of St Maximus the Confessor_, Oxford, Oxford University Press, 2008.
+
+Valente, L., _Filosofie del medioevo. Essere, felicità, linguaggio_, Milano, Le Monnier Università / Mondadori Education, 2023.
+
+Valente, L., "Sfera infinita e sfera intellegibile: immaginazione e conoscenza di Dio nel Libro dei XXIV filosofi e in Alano di Lilla", in _Sphaera: forma, immagine e metafora tra medioevo ed età moderna_, a cura di P. Apud et al., Firenze, Olschki, 2012, pp. 79-120.
+
+Vinzent, M., "Questions on the Attributes (of God): Four Rediscovered Parisian Questions of Meister Eckhart", «Journal of Theological Studies» 63 (2012), pp. 156-186.
+
+Visser, S. - Williams, T., _Anselm_, Oxford, Oxford University Press, 2009.
+
+### Teologia contemporanea
+
+Balthasar, H.U. von, _Mysterium Paschale: The Mystery of Easter_, trans. A. Nichols, San Francisco, Ignatius Press, 1990.
+
+Balthasar, H.U. von, _Theo-Drama: Theological Dramatic Theory_, trans. G. Harrison, 5 voll., San Francisco, Ignatius Press, 1988-1998.
+
+Bulgakov, S., _The Lamb of God_, trans. B. Jakim, Grand Rapids, Eerdmans, 2008 [1933].
+
+Coakley, S., _God, Sexuality, and the Self: An Essay 'On the Trinity'_, Cambridge, Cambridge University Press, 2013.
+
+Kilby, K., _Balthasar: A (Very) Critical Introduction_, Grand Rapids, Eerdmans, 2012.
+
+Marion, J.-L., _Dieu sans l'être_, Paris, Fayard, 1982; 2ª ed. Paris, PUF, 2010; trad. it. _Dio senza essere_, Milano, Jaca Book, 2008; trad. ingl. _God Without Being_, 2nd ed., Chicago, University of Chicago Press, 2012.
+
+Marion, J.-L., _Givenness and Revelation_, trans. S.E. Lewis, Oxford, Oxford University Press, 2016.
+
+Moltmann, J., _The Crucified God: The Cross of Christ as the Foundation and Criticism of Christian Theology_, trans. R.A. Wilson - J. Bowden, Minneapolis, Fortress Press, 2015 [1972].
+
+Soskice, J.M., _Metaphor and Religious Language_, Oxford, Clarendon Press, 1985.
+
+Turner, D., _The Darkness of God: Negativity in Christian Mysticism_, Cambridge, Cambridge University Press, 1995.
+
+Ward, G., "Kenosis: Death, Discourse and Resurrection", in L. Gardner - D. Moss - B. Quash - G. Ward (eds.), _Balthasar at the End of Modernity_, Edinburgh, T&T Clark, 1999, pp. 15-68.
+
+### Studi sul buddhismo e il Mādhyamaka
+
+Garfield, J.L., _Engaging Buddhism: Why It Matters to Philosophy_, New York, Oxford University Press, 2015.
+
+Huntington, C.W., _The Emptiness of Emptiness: An Introduction to Early Indian Mādhyamika_, Honolulu, University of Hawaii Press, 1989.
+
+Priest, G., _The Fifth Corner of Four: An Essay on Buddhist Metaphysics and the Catuṣkoṭi_, Oxford, Oxford University Press, 2018.
+
+Ruegg, D.S., _The Literature of the Madhyamaka School of Philosophy in India_, Wiesbaden, Harrassowitz, 1981.
+
+Siderits, M., _Buddhism as Philosophy: An Introduction_, Indianapolis, Hackett, 2007.
+
+Westerhoff, J., _Nāgārjuna's Madhyamaka: A Philosophical Introduction_, New York, Oxford University Press, 2009.
+
+### Studi sull'Advaita Vedānta
+
+Deutsch, E., _Advaita Vedānta: A Philosophical Reconstruction_, Honolulu, University of Hawaii Press, 1969.
+
+Hacker, P., _Philology and Confrontation: Paul Hacker on Traditional and Modern Vedānta_, ed. W. Halbfass, Albany, SUNY Press, 1995.
+
+Halbfass, W., _India and Europe: An Essay in Understanding_, Albany, SUNY Press, 1988.
+
+Isayeva, N., _Shankara and Indian Philosophy_, Albany, SUNY Press, 1993.
+
+### Studi comparativi e metodologici
+
+Clooney, F.X., _Comparative Theology: Deep Learning Across Religious Borders_, Oxford, Wiley-Blackwell, 2010.
+
+De Smet, R., _Understanding Śaṅkara: Essays by Richard De Smet_, ed. I.Ged, Delhi, Motilal Banarsidass, 2013.
+
+De Smet, R., _Brahman and Person: Essays by Richard De Smet_, ed. I. Ged, Delhi, Motilal Banarsidass, 2010.
+
+Franke, W., _Apophatic Paths from Europe to China: Regions Without Borders_, Albany, SUNY Press, 2018.
+
+Franke, W. (ed.), _On What Cannot Be Said: Apophatic Discourses in Philosophy, Religion, Literature, and the Arts_, 2 voll., Notre Dame, University of Notre Dame Press, 2007.
+
+Grant, S., _Toward an Alternative Theology: Confessions of a Non-Dualist Christian_, ed. B. Griffiths, Notre Dame, University of Notre Dame Press, 2002.
+
+Heisig, J.W., _Philosophers of Nothingness: An Essay on the Kyoto School_, Honolulu, University of Hawaii Press, 2001.
+
+Katz, S.T., "Language, Epistemology, and Mysticism", in S.T. Katz (ed.), _Mysticism and Philosophical Analysis_, New York, Oxford University Press, 1978, pp. 22-74.
+
+Nicholson, H., _Comparative Theology and the Problem of Religious Rivalry_, New York, Oxford University Press, 2011.
+
+Nishitani, K., _Religion and Nothingness_, trans. J. Van Bragt, Berkeley, University of California Press, 1982.
+
+Otto, R., _Mysticism East and West: A Comparative Analysis of the Nature of Mysticism_, trans. B.L. Bracey - R.C. Payne, New York, Macmillan, 1932 [1926].
+
+Sells, M.A., _Mystical Languages of Unsaying_, Chicago, University of Chicago Press, 1994.
+
+### Dialogo buddhista-cristiano
+
+Abe, M., "Kenotic God and Dynamic Śūnyatā", in J.B. Cobb Jr. - C. Ives (eds.), _The Emptying God: A Buddhist-Jewish-Christian Conversation_, Maryknoll, Orbis Books, 1990, pp. 3-65.
+
+Cobb, J.B. Jr. - Ives, C. (eds.), _The Emptying God: A Buddhist-Jewish-Christian Conversation_, Maryknoll, Orbis Books, 1990.
+
+---
+
+## Riviste di riferimento
+
+- «Archives d'histoire doctrinale et littéraire du moyen âge» (Vrin)
+- «International Journal of Systematic Theology» (Wiley)
+- «Journal of Hindu-Christian Studies» (Butler University)
+- «Journal of Indian Philosophy» (Springer)
+- «Journal of Theological Studies» (Oxford University Press)
+- «Modern Theology» (Wiley)
+- «Philosophy East and West» (University of Hawaii Press)
+- «The Thomist» (Dominican Fathers)
+- «Vigiliae Christianae» (Brill)
