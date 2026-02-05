@@ -11,12 +11,14 @@
             "id": "75f753b37236c8a8",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Ricerca/Versioni/La_Doppia_Kenosi_del_Linguaggio_Teologico.docx.pdf"
+                "file": "Ricerca/Completa.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "La_Doppia_Kenosi_del_Linguaggio_Teologico.docx"
+              "icon": "lucide-file",
+              "title": "Completa"
             }
           }
         ]
@@ -184,11 +186,11 @@
   },
   "active": "75f753b37236c8a8",
   "lastOpenFiles": [
+    "Ricerca/Versioni/La_Doppia_Kenosi_del_Linguaggio_Teologico.docx.pdf",
     "Ricerca/PDFs/Negative Theology and Linguistic Strategies for Speaking the Unspeakable_ Materials for a Scientific Article.pdf",
     "Ricerca/PDFs/Kenotic Linguistics_ Christological Foundations and Cross-Religious Structural Parallels in Apophaticism.pdf",
     "Ricerca/PDFs/Kenosis - Wikipedia.pdf",
     "Ricerca/Markdown/Ricerca Wikipedia Cristologia + Oriente (Buddismo, Induismo).md",
-    "Ricerca/Versioni/La_Doppia_Kenosi_del_Linguaggio_Teologico.docx.pdf",
     "Ricerca/Completa.md",
     "Ricerca/Untitled.md",
     "README.md",
