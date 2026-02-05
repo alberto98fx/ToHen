@@ -1,0 +1,203 @@
+{
+  "main": {
+    "id": "30e7f6e99ea5ea99",
+    "type": "split",
+    "children": [
+      {
+        "id": "d413461e6eea3c90",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a49c3e24a6c1578c",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Ricerca/Versioni/La_Doppia_Kenosi_del_Linguaggio_Teologico.docx.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "La_Doppia_Kenosi_del_Linguaggio_Teologico.docx"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "34ebec5b820d6063",
+    "type": "split",
+    "children": [
+      {
+        "id": "659a061e02bacf68",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cf56eeca81b6c85d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "dbf710d833200241",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "d90c26745a81dd47",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 309.5
+  },
+  "right": {
+    "id": "7fe77b93e57082ac",
+    "type": "split",
+    "children": [
+      {
+        "id": "51330c2f4ef4cb94",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "599748874f2082be",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Aristotle.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Aristotle"
+            }
+          },
+          {
+            "id": "a2e16b2127aaeeca",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Aristotle.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Aristotle"
+            }
+          },
+          {
+            "id": "5ab055af347dea97",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "cb823d21ea399094",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "61c4dab33e765e2a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Aristotle.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Aristotle"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "a49c3e24a6c1578c",
+  "lastOpenFiles": [
+    "Ricerca/Completa.md",
+    "Ricerca/Versioni/La_Doppia_Kenosi_del_Linguaggio_Teologico.docx.pdf",
+    "Ricerca/Markdown/Ricerca Wikipedia Cristologia + Oriente (Buddismo, Induismo).md",
+    "Ricerca/Untitled.md",
+    "README.md",
+    "Ricerca/PDFs/Negative Theology and Linguistic Strategies for Speaking the Unspeakable_ Materials for a Scientific Article.pdf",
+    "Ricerca/PDFs/Kenotic Linguistics_ Christological Foundations and Cross-Religious Structural Parallels in Apophaticism.pdf",
+    "Ricerca/PDFs/Kenosis - Wikipedia.pdf",
+    "Ricerca/Markdown",
+    "Ricerca/Versioni",
+    "Ricerca/PDFs",
+    "Aristotle.md",
+    "Ricerca",
+    "Test.md",
+    "Welcome.md"
+  ]
+}
