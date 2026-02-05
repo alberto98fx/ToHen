@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ricerca/Reviews/Untitled.md",
+                "file": "Prompt.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Prompt"
             }
           }
         ]
@@ -186,8 +186,9 @@
   },
   "active": "75f753b37236c8a8",
   "lastOpenFiles": [
+    "Ricerca/Reviews/Gpt5.2-Thinking.md",
+    "Prompt.md",
     "Ricerca/Versioni/La_Doppia_Kenosi_del_Linguaggio_Teologico.docx.pdf",
-    "Ricerca/Reviews/Untitled.md",
     "Ricerca/PDFs/Kenotic Linguistics_ Christological Foundations and Cross-Religious Structural Parallels in Apophaticism.pdf",
     "Ricerca/PDFs/Negative Theology and Linguistic Strategies for Speaking the Unspeakable_ Materials for a Scientific Article.pdf",
     "Ricerca/Reviews/Gpt5.2-Pro.md",
