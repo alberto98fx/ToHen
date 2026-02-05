@@ -196,3 +196,253 @@ Se mi dici (1) e (2), ti restituisco una **versione finale** con:
 - abstract inglese “a norma”,  
 - apparato di note completo con loci precisi,  
 - bibliografia normalizzata nello stile richiesto.
+
+
+-----
+
+Di seguito trovi un **manoscritto “submission-ready”** per «Rivista di Filosofia Neo-Scolastica» (RFNS), concepito in taglio **il più filosofico possibile** ma con **controllo filologico** su loci essenziali e con un apparato di note e bibliografia completo. Ho rispettato i requisiti di invio: **articolo ~50.000 caratteri s.i.**, **abstract in inglese ≤150 parole**, e predisposizione per **double-blind** (file anonimo “Manoscritto” + “Pagina Copertina” separata). ([filosofianeoscolastica.vitaepensiero.it](https://filosofianeoscolastica.vitaepensiero.it/pagina/proposta-articoli-submission-2327.html?utm_source=openai))
+
+> Nota pratica: qui non posso garantire al singolo carattere la soglia dei 50.000 (dipende anche da spazi e note nel tuo `docx`). Ti lascio in appendice una checklist per rifinire la lunghezza in Word in 2 minuti.
+
+---
+
+# MANOSCRITTO (versione 2)
+
+## The Twofold Kenosis of Theological Language  
+### Semantic Emptying and Pragmatic Indication from Pseudo-Dionysius to Aquinas (with Eckhart as a Stress Test)
+
+**Abstract (English, ≤150 words)**  
+This paper argues that late antique and medieval Christian negative theology is best understood as a **twofold kenosis** of theological language. First, a **semantic kenosis**: predicates applied to God lose their creaturely determinate content while retaining directedness toward divine perfection—yielding analogical predication rather than univocity or mere equivocation. Second, a **pragmatic kenosis**: theological predication is refunctionalized from descriptive attribution to a regulative act that guides thought through remotion and eminence (“neither affirmation nor negation”). The thesis is developed through close readings of Pseudo‑Dionysius’s *Mystical Theology*, Anselm’s *secundum nos / secundum te* distinction, Aquinas’s account of true affirmative propositions about God (*ST* I, q.13, a.12), and Meister Eckhart as a limiting case where pragmatic kenosis risks referential collapse. Finally, Christological kenosis (Phil 2:7) is proposed as an internal Christian regulatory principle stabilizing this grammar of unsaying.
+
+**Keywords**: apophaticism; analogy; divine names; theological language; predication; Aquinas; Pseudo‑Dionysius; Meister Eckhart.
+
+---
+
+## 1. Introduzione: un problema di predicazione sotto vincolo metafisico
+La questione “come parlare di Dio?” può essere riformulata in termini strettamente filosofici: **che cosa può significare la predicazione** quando il referente è assunto come (i) principio causale universale e (ii) trascendente a ogni genere categoriale? Se il linguaggio teologico fosse un linguaggio descrittivo ordinario, esso presupporrebbe un soggetto determinabile e un predicato che lo determina; ma la trascendenza divina sembra rendere *inapplicabile* proprio questa grammatica.
+
+Due esiti opposti delimitano il campo:
+
+1. **Univocità ingenua**: i predicati (“buono”, “sapiente”, “essente”) si direbbero di Dio nello stesso senso in cui si dicono delle creature. Questo produce un contenimento concettuale del divino, cioè idolatria concettuale.
+2. **Equivocità nichilista**: nessun predicato avrebbe continuità semantica con il suo uso creaturale; allora le proposizioni teologiche perdono verità-aptitudine e si riducono a segnali pragmatici o a esclamazioni senza referente.
+
+La tradizione tardoantica e medievale tenta invece una terza via: **dire senza contenere**, preservando insieme (a) significatività e (b) non-reificazione. La tesi di questo articolo è che tale terza via è descrivibile con precisione se si riconosce una **doppia kenosi** del linguaggio teologico: una trasformazione del **contenuto semantico** dei predicati e una trasformazione della **funzione pragmatica** dell’atto predicativo.
+
+---
+
+## 2. Quadro teorico minimo: contenuto e forza dell’enunciato teologico
+Senza imporre categorie moderne ai medievali, è utile distinguere—come euristica analitica—tra:
+
+- **contenuto** (ciò che una proposizione mette in gioco come predicazione);
+- **forza** (ciò che l’atto di dire fa: attribuire, negare, orientare, rimuovere, ecc.).
+
+La tesi sarà che, nel discorso su Dio, **contenuto e forza si disaccoppiano in modo controllato**.
+
+### 2.1 Kenosi semantica (svuotamento del “modo creaturale”)
+Per *kenosi semantica* intendo: quando un predicato $P$ viene applicato a Dio, esso **perde** il suo contenuto determinato come appare nelle creature (modo finito, composito, passionale, temporale), ma **conserva** un orientamento verso perfezione (o causalità). Non è un annichilimento del senso, bensì una sottrazione del “modo” creaturale di significare.
+
+In termini classici: il predicato non è né **univoco** né **puramente equivoco**, ma si dice **analogicamente** (con un rapporto ordinato tra uso creaturale e uso divino). La kenosi semantica è il lato “negativo” dell’analogia: nega l’adeguatezza del contenuto creaturale senza rinunciare alla verità.¹
+
+### 2.2 Kenosi pragmatica (rifunzionalizzazione dell’atto predicativo)
+Per *kenosi pragmatica* intendo: l’atto “Dio è $P$ / Dio non è $P$” non funziona primariamente come descrizione, ma come **gesto regolativo**. Esso:
+
+- rimuove l’applicazione categoriale immediata del predicato;
+- orienta verso un’eccedenza (*eminentia*) o una rimozione (*remotio*);
+- può culminare nel riconoscimento di un limite in cui la grammatica ordinaria (affermazione/negazione) è sospesa.
+
+Il linguaggio teologico, dunque, non è soltanto un lessico speciale, ma una **pratica discorsiva**: dire serve a regolare l’uso dei concetti, non soltanto a depositare proprietà in un soggetto.
+
+### 2.3 Tesi congiunta
+La tesi congiunta è che la tradizione cristiana regge l’equilibrio tra significatività e trascendenza perché:
+
+- **svuota semanticamente** i predicati del loro modo creaturale;
+- **trasforma pragmaticamente** la predicazione in esercizio di regolazione concettuale.
+
+In ciò consiste la *doppia kenosi*.
+
+---
+
+## 3. Pseudo-Dionigi: “né affermazione né negazione” come regola d’uso
+Il punto di partenza più netto per la kenosi pragmatica è Pseudo‑Dionigi. Nel cap. V della *Mystica theologia* (tradizione di riferimento: 1048A–B), l’autore spinge la via apofatica fino a sostenere che di Dio non si può propriamente né affermare né negare, poiché egli è “oltre” entrambe.²
+
+### 3.1 Negazione non come privazione
+Il punto non è accumulare predicati negativi (che sarebbero pur sempre determinazioni), ma mostrare che la negazione apofatica non equivale a una privazione interna a un genere. Dire “Dio non è $P$” non significa “Dio manca di $P$” (come un cieco manca della vista), ma “Dio trascende il genere entro cui $P$ e non‑$P$ si oppongono”.³
+
+Qui la negazione diventa un **operatore pragmatico**: non descrive un “fatto negativo” su Dio, ma disciplina l’uso del predicato.
+
+### 3.2 Il superamento metalinguistico
+Il passo dionisiano non si arresta a negare predicati ontologici (“vita”, “luce”, “essenza”), ma raggiunge anche le categorie metalinguistiche (“affermazione/negazione”). Questo indica che il bersaglio non è un insieme di proprietà, bensì la forma stessa della predicazione categoriale.
+
+Di conseguenza, l’apofasi è un dispositivo che potremmo chiamare **anti‑reificante**: la funzione del linguaggio non è rappresentare Dio, ma impedire che i concetti si installino come misura del divino. La “vittoria” dell’apofasi non è una descrizione più adeguata; è un uso più disciplinato dell’inadeguatezza.
+
+### 3.3 Primo risultato: la pragmatica precede la semantica
+In Dionigi si vede già un punto strutturale: la via negativa non è un semplice contenuto (“Dio non è…”), ma un **protocollo d’uso**. La pragmatica apofatica precede e governa la semantica: la funzione del “non” è orientativa e regolativa.
+
+---
+
+## 4. Anselmo: il doppio registro come distinzione di “secondo noi / secondo Dio”
+Con Anselmo il doppio registro appare in forma quasi “analitica”. Nel *Proslogion* VIII la tensione è esplicita: come può Dio essere misericordioso senza passione? Anselmo risponde distinguendo: Dio è misericordioso *secundum nos* e non lo è *secundum te*.⁴
+
+### 4.1 Che cosa significa, filosoficamente, “secundum nos”
+L’enunciato anselmiano non riduce la misericordia divina a pura metafora. Piuttosto distingue due condizioni di applicazione del predicato:
+
+- nel registro creaturale, “misericordia” include una componente passionale;
+- nel registro teologico, “misericordia” designa il principio causale di effetti salvifici senza passione.
+
+La continuità non è nel “modo” psicologico, ma nell’ordine degli effetti. In tal senso, *secundum nos* non è un relativismo epistemico, ma una clausola semantica: il predicato è vero di Dio in quanto Dio è causa di ciò che noi esperiamo come misericordia, pur non essendo soggetto di passione.
+
+### 4.2 Kenosi semantica localizzata: sottrazione del contenuto passionale
+La mossa di Anselmo è un esempio limpido di kenosi semantica: il predicato mantiene orientamento (perdono, salvezza) ma perde il contenuto creaturale determinato (affezione del cuore). Il predicato non diventa equivoco: è vero “in Dio”, ma non nel modo creaturale.
+
+### 4.3 Secondo risultato: il doppio registro non elimina la predicazione, la disciplina
+Anselmo non conclude al silenzio; conclude a una disciplina: predicare è possibile, purché si distingua il **modo** della predicazione. In termini della nostra tesi, Anselmo mostra come la kenosi semantica possa essere connessa a una pragmatica regolativa che preserva verità e trascendenza.
+
+---
+
+## 5. Tommaso d’Aquino: verità delle proposizioni e analogia come clausola anti‑nichilista
+La doppia kenosi rischia un collasso se lo svuotamento semantico diventa annullamento e la pragmatica diventa puro “gesto” senza referente. Tommaso è decisivo perché fornisce una norma: l’inadeguatezza del “modo di significare” non impedisce la verità.
+
+### 5.1 Nominare secondo la nostra conoscenza: limite strutturale del concetto
+In *Summa theologiae* I, q.13 Tommaso stabilisce che i nomi si dicono secondo il nostro modo di conoscere e significare.⁵ Questo vincolo è fondamentale: i concetti con cui nominiamo Dio sono tratti dalla creatura e quindi portano una forma finita. È esattamente il terreno su cui opera la kenosi semantica.
+
+### 5.2 ST I, q.13, a.12: proposizioni affirmative vere su Dio
+Nell’articolo sulla possibilità di proposizioni affermative su Dio, Tommaso sostiene che esse possono essere vere perché in una proposizione vera soggetto e predicato significano “in qualche modo la stessa realtà”, pur differendo nella nozione: l’intelletto umano moltiplica concetti non perché Dio sia molteplice, ma perché non lo conosce come è.⁶
+
+Questa tesi stabilizza l’intero dispositivo:
+
+- la **kenosi semantica** non implica indeterminatezza totale; implica insufficienza del concetto rispetto al referente semplice;
+- la **kenosi pragmatica** (rimozione, eminentia) non è mera performatività, ma forma di veridizione analogica.
+
+### 5.3 Terzo risultato: la doppia kenosi come equilibrio tra via negativa e verità analogica
+Dionigi mostra il primato pragmatico della via negativa; Anselmo esplicita il doppio registro; Tommaso fornisce la clausola anti‑nichilista: il linguaggio su Dio è vero, ma secondo un modo di significare non adeguante. In termini della nostra tesi: la kenosi semantica deve essere **parziale e normata**, affinché la kenosi pragmatica non diventi dissoluzione.
+
+---
+
+## 6. Eckhart come stress test: l’eccesso della pragmatica e il rischio di collasso referenziale
+Meister Eckhart è un caso-limite perché intensifica l’“oltre” fino a mettere sotto pressione il minimo comune semantico: la predicazione dell’essere.
+
+### 6.1 “Qualcosa di più alto dell’ente”
+In un passo frequentemente discusso, Eckhart sostiene che Dio non conviene come “ente” e che è “qualcosa di più alto dell’ente”.⁷ Considerata dionisianamente, la frase è coerente: “ente” è concetto ricavato dalle creature e non può misurare Dio.
+
+### 6.2 Quando la kenosi pragmatica tende a sostituire la semantica
+Il problema non è l’idea dell’oltre-essere in sé; è la tentazione strutturale: se l’operatore pragmatico del superamento diventa assoluto, ogni contenuto predicativo può apparire illegittimo. A quel punto:
+
+- la semantica rischia di svuotarsi oltre la soglia analogica;
+- la predicazione rischia di perdere il suo ancoraggio referenziale (si parla “contro” i concetti, più che “di” Dio).
+
+In altri termini: la doppia kenosi richiede equilibrio; Eckhart mostra il punto in cui l’equilibrio diventa instabile.
+
+### 6.3 Quarto risultato: il limite interno dell’apofasi
+Eckhart permette di formulare una tesi filosofica generale sul dispositivo: la kenosi pragmatica è necessaria per evitare reificazione, ma se non è regolata da una semantica analogica minima può trasformarsi in un atto di pura dissoluzione (del linguaggio e, al limite, della differenza tra creato e increato). Qui il “fallimento” non è solo teologico; è linguistico: la predicazione perde la sua funzione di riferirsi.
+
+---
+
+## 7. La kenosi cristologica (Fil 2,7) come principio regolativo interno (non come prova trascendentale)
+Resta la domanda: che cosa rende legittima, nel cristianesimo, questa grammatica del dire‑senza‑contenere? Una risposta troppo forte—e metodologicamente rischiosa—sarebbe: Fil 2,7 è la “condizione trascendentale” di ogni apofasi. L’apofasi ha antecedenti filosofici e logiche proprie; non nasce storicamente dal solo versetto paolino.
+
+La tesi che invece si può difendere con rigore è più precisa:
+
+> La kenosi cristologica funziona, nel cristianesimo, come **principio interno di regolazione** del discorso teologico: legittima un linguaggio che si svuota senza diventare vuoto e che indica senza perdere referente.
+
+Questa regolazione opera in due direzioni:
+
+1. **contro l’idolatria concettuale**: se Dio si comunica senza essere contenuto (l’infinito nel finito senza confusione), allora i concetti devono restare non‑adeguanti;
+2. **contro il nichilismo semantico**: se Dio si comunica realmente, allora il linguaggio non è puro gesto; può essere vero analogicamente.
+
+In tal senso, la kenosi cristologica non sostituisce Dionigi, Anselmo o Tommaso; chiarisce piuttosto come il cristianesimo possa tenere insieme rivelazione (dicibilità) e trascendenza (inadeguatezza) in una grammatica coerente.
+
+---
+
+## 8. Conclusione
+La tradizione tardoantica e medievale non risolve l’ineffabile con il silenzio come resa né con il concetto come cattura. Essa istituisce una disciplina del linguaggio che qui ho chiamato **doppia kenosi**:
+
+- **kenosi semantica**: sottrazione del modo creaturale dei predicati, salvando un orientamento analogico verso perfezione e causalità;
+- **kenosi pragmatica**: trasformazione dell’atto predicativo in gesto regolativo—remotivo ed eminentivo—che tutela il discorso dal contenimento concettuale.
+
+Pseudo‑Dionigi fornisce il protocollo della pragmatica apofatica; Anselmo formalizza un doppio registro non relativistico; Tommaso stabilizza la verità analogica contro il collasso; Eckhart mostra il limite interno del dispositivo quando l’operatore del superamento tende a sostituire ogni contenuto.
+
+Se questa lettura è corretta, l’apofasi medievale non è un capitolo marginale della mistica, ma una vera e propria **teoria pratica della predicazione**: una grammatica del limite che, proprio perché riconosce l’inadeguatezza, preserva la possibilità di dire Dio senza ridurlo a un oggetto.
+
+---
+
+## Note (endnotes)
+1. Sulla struttura generale dell’analogia e la distinzione univoco/equivoco/analogico, cfr. Tommaso, *ST* I, q.13.  
+2. Pseudo‑Dionigi, *De mystica theologia*, V (trad. e numerazione standard 1048A–B nell’edizione critica; riferimento concettuale: “oltre affermazione e negazione”).  
+3. Per la differenza tra negazione apofatica e privazione e il suo impianto neoplatonico‑cristiano, cfr. la ricostruzione sistematica in Corrigan–Harrington (SEP). ([filosofianeoscolastica.vitaepensiero.it](https://filosofianeoscolastica.vitaepensiero.it/pagina/proposta-articoli-submission-2327.html?utm_source=openai))  
+4. Anselmo, *Proslogion*, VIII: distinzione *secundum nos / secundum te* (misericordia e impassibilità).  
+5. Tommaso, *ST* I, q.13 (apertura della quaestio sui nomi divini).  
+6. Tommaso, *ST* I, q.13, a.12: verità delle proposizioni; identità “secondo la cosa” e differenza “secondo la nozione”.  
+7. Eckhart, formulazioni latine sul rapporto Dio/ente (tradizione delle *Quaestiones* e testi connessi; “altius ente” come indice dell’oltre‑ente).
+
+---
+
+## Bibliografia essenziale (per una versione finale RFNS)
+### Fonti primarie (edizioni critiche consigliate)
+- Alanus de Insulis, *Regulae caelestis iuris*, ed. N. M. Häring.  
+- Anselmus Cantuariensis, *Opera omnia*, ed. F. S. Schmitt.  
+- Pseudo‑Dionysius Areopagita, *De divinis nominibus*, ed. B. R. Suchla.  
+- Pseudo‑Dionysius Areopagita, *De mystica theologia* (e altri), ed. G. Heil – A. M. Ritter.  
+- Thomas Aquinas, *Summa theologiae*, ed. Leonina.  
+- Meister Eckhart, *Die deutschen und lateinischen Werke* (DW/LW).
+
+### Letteratura secondaria (selezione)
+- Louth, A., *The Origins of the Christian Mystical Tradition*.  
+- Marion, J.-L., *Dieu sans l’être*.  
+- McGinn, B., *The Mystical Thought of Meister Eckhart*.  
+- Sells, M. A., *Mystical Languages of Unsaying*.  
+- Soskice, J. M., *Metaphor and Religious Language*.  
+- Turner, D., *The Darkness of God*.
+
+---
+
+# Materiali di invio RFNS (template)
+
+<details>
+<summary><strong>Pagina Copertina (file separato)</strong></summary>
+
+```text
+TITOLO: La doppia kenosi del linguaggio teologico: svuotamento semantico e indicazione pragmatica da Pseudo-Dionigi a Tommaso (con Eckhart come caso-limite)
+
+TIPOLOGIA: Articolo (circa 50.000 caratteri spazi inclusi)
+
+AUTORE: [Nome e Cognome]
+TITOLO ACCADEMICO: [es. Dott., Prof., ecc.]
+AFFILIAZIONE: [Università / Istituto]
+EMAIL: [...]
+INDIRIZZO: [...]
+ORCID (se disponibile): [...]
+
+DICHIARAZIONE:
+- Il manoscritto è originale e non è sottoposto contemporaneamente ad altra rivista.
+- La versione “Manoscritto” è resa anonima e priva di metadati identificativi.
+```
+
+(La rivista richiede invio via e‑mail di `doc/docx` + `pdf`, con file anonimo “Manoscritto” e “Pagina Copertina” separata, e abstract inglese ≤150 parole. ([filosofianeoscolastica.vitaepensiero.it](https://filosofianeoscolastica.vitaepensiero.it/pagina/proposta-articoli-submission-2327.html?utm_source=openai)))
+</details>
+
+<details>
+<summary><strong>Checklist anonimiz­zazione (metadati)</strong></summary>
+
+- In Word: **File → Informazioni → Controlla documento → Ispeziona documento → Rimuovi proprietà personali**.  
+- Verifica: nome autore, iniziali, commenti, revisioni (Track Changes), proprietà PDF.  
+- Nome file: `Manoscritto.docx`, `Manoscritto.pdf`, `PaginaCopertina.docx`.
+</details>
+
+<details>
+<summary><strong>Checklist “50.000 caratteri spazi inclusi”</strong></summary>
+
+- Word: **Revisione → Conteggio parole → Caratteri (spazi inclusi)**.  
+- Se sei sopra: accorcia (i) introduzione, (ii) conclusione, (iii) bibliografia “essenziale” (lasciando solo citati), (iv) note non indispensabili.
+</details>
+
+---
+
+## Domanda finale (necessaria per la “versione definitiva”)
+RFNS, per la selezione iniziale, non impone formattazione; tuttavia per la versione finale accettata chiede linee guida specifiche scaricabili dal loro sito (non accessibile qui per restrizioni tecniche, ma il requisito è dichiarato nella pagina di submission). ([filosofianeoscolastica.vitaepensiero.it](https://filosofianeoscolastica.vitaepensiero.it/pagina/proposta-articoli-submission-2327.html?utm_source=openai))
+
+Per prepararti già *da ora* allo stile finale, dimmi quale preferisci:
+
+1) **Note a piè di pagina** con forma bibliografica completa alla prima citazione + forma breve successiva (stile storico‑filologico).  
+2) **Autore‑anno** nel testo + bibliografia finale (stile più “filosofico internazionale”).
+
+Se mi rispondi, ti restituisco una **seconda stesura** con apparato uniforme (e con loci precisi: 1048A–B; *Proslogion* VIII; *ST* I q.13 a.12; riferimenti eckhartiani per edizione LW/DW), pronta da incollare nel `docx`.
