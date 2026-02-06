@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI-Prompt.md",
+                "file": "Dire_l_Indicibile.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AI-Prompt"
+              "title": "Dire_l_Indicibile"
             }
           }
         ]
@@ -186,9 +186,9 @@
   },
   "active": "75f753b37236c8a8",
   "lastOpenFiles": [
+    "AI-Prompt.md",
     "Dire_l_Indicibile.md.tmp.5469.1770376069215",
     "Colloquio con professore, trascritto.md",
-    "AI-Prompt.md",
     "Dire_l_Indicibile.md",
     "Dire_l_Indicibile.md.tmp.5469.1770375912089",
     "Ricerca/Completa.md",
@@ -210,7 +210,6 @@
     "Ricerca/Untitled.md",
     "README.md",
     "Ricerca/Markdown",
-    "Ricerca/Versioni",
     "Aristotle.md",
     "Test.md",
     "Welcome.md"
