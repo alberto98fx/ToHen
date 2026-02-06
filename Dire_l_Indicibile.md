@@ -429,7 +429,7 @@ A beneficio della chiarezza argomentativa, riassumiamo in forma schematica la ma
 
 ## Conclusione. Il linguaggio e il suo oltre
 
-Il percorso tracciato in questo studio ha attraversato cinque territori: il tardo neoplatonismo cristiano dello Pseudo-Dionigi, il laboratorio semantico di Anselmo d'Aosta, il XII secolo di Alano di Lilla e del *Liber XXIV philosophorum*, le tradizioni speculative dell'India (Advaita Vedānta e Mādhyamaka), e infine lo spazio teorico in cui queste tradizioni sono state messe a confronto. Da questo percorso emergono tre risultati principali.
+Il percorso tracciato in questo studio ha attraversato sei territori: la fondazione agostiniana della teoria dei segni, il tardo neoplatonismo cristiano dello Pseudo-Dionigi, il laboratorio semantico di Anselmo d'Aosta, il XII secolo di Alano di Lilla e del *Liber XXIV philosophorum*, le tradizioni speculative dell'Oriente (Advaita Vedānta, Mādhyamaka, Daoismo), e infine lo spazio teorico in cui queste tradizioni sono state messe a confronto attraverso la griglia del "quarto momento". Da questo percorso emergono tre risultati principali, ai quali si aggiunge un'apertura problematica che indica le direzioni della ricerca futura.
 
 Il primo risultato è la conferma dell'ipotesi iniziale: le tre strategie dell'ineffabilità (via negativa, paradosso, doppio registro) non sono tre "scuole" disgiunte, ma tre livelli di una medesima architettura, ciascuno dei quali presuppone gli altri. La via negativa presuppone un lessico affermativo da negare; il paradosso è un esito interno della negazione (le negazioni stesse dicono troppo e devono essere superate); il doppio registro è la condizione semantica che rende possibile l'intero movimento, perché è esso che permette ai termini di funzionare a livelli diversi — creaturale e divino, convenzionale e ultimo — senza collassare nell'equivocità o nell'univocità. Questa architettura si ritrova, con variazioni di superficie ma con una struttura profonda comune, in tutte le tradizioni esaminate.
 
@@ -441,7 +441,13 @@ Questa conclusione ha implicazioni per la questione dello "scarto" neoplatonismo
 
 Il presente studio non pretende di aver esaurito il tema — un'impresa impossibile — ma di aver fornito una chiave interpretativa che renda conto, al tempo stesso, dell'universalità della struttura apofatica e della particolarità storica delle sue realizzazioni. La "grammatica trascendentale dell'ineffabile" non è un sistema chiuso, ma un quadro analitico che può essere applicato a tradizioni e autori non trattati in questo lavoro — dal Daoismo di Laozi al misticismo di Margherita Porete, dalla Kabbala ebraica al Sufismo di Ibn ʿArabī — per verificare se la convergenza strutturale e la divergenza pragmatica che abbiamo osservato si confermino anche in contesti ulteriori.
 
-Il paradosso con cui abbiamo aperto — il linguaggio deve dire ciò che non può dire — non è risolto da nessuna delle tradizioni esaminate, né potrebbe esserlo. Ma ciascuna tradizione ha trovato il modo di *abitare* il paradosso, di farne una pratica piuttosto che un problema, di trasformarlo da impasse logica in risorsa spirituale. Il linguaggio finito non può dire l'infinito; ma nel suo stesso fallire — nel suo affermare, negare, superare, e poi ricominciare — esso traccia il contorno di ciò che lo eccede. È questo contorno — questa grammatica dell'impossibile — che le tradizioni dell'ineffabile, ciascuna a modo proprio, hanno pazientemente disegnato.
+Un quarto risultato, di portata più esplorativa, riguarda il potenziale euristico della griglia analitica qui proposta per la storiografia della filosofia. Se i conflitti maggiori nella storia della teologia — dalla censura di Eckhart alla controversia sullo quietismo, dalla disputa palamita alle tensioni tra mistica e istituzione — possono essere letti come conflitti tra "quarti momenti" (tra destinazioni pragmatiche del discorso apofatico), allora la storiografia guadagna uno strumento di analisi che non si limita a classificare le *tesi* dei diversi autori, ma ne coglie le *pratiche discorsive* — il contesto istituzionale, la forma letteraria, il pubblico, la finalità — come dimensioni costitutive del pensiero stesso. La teologia non è solo ciò che si dice su Dio, ma ciò che il dire su Dio *fa*: loda, analizza, guarisce, ordina, trasforma. E le differenze nel fare sono almeno altrettanto significative — per la comprensione storica come per la comprensione filosofica — delle differenze nel dire.
+
+Le direzioni future della ricerca sono molteplici. In primo luogo, l'applicazione della griglia del "quarto momento" a tradizioni non trattate in questo studio: la Kabbala ebraica (dove l'apofasi assume la forma della *tzimtzum*, il "ritrarsi" di Dio per far spazio al creato, e della meditazione sulle *sefirot* come emanazioni che al tempo stesso rivelano e nascondono l'*Ein Sof*, l'Infinito senza nome); il Sufismo (dove l'apofasi culmina nel *fanāʾ*, l'annichilamento del sé nell'unità divina, e nella poesia mistica che è, al contempo, discorso d'amore e teologia negativa); il pensiero di Margherita Porete, il cui *Miroir des simples âmes* articola un'apofasi dell'anima che anticipa Eckhart e fu censurata per ragioni analoghe. In secondo luogo, l'analisi del rapporto tra la grammatica trascendentale dell'ineffabile qui delineata e le riflessioni contemporanee sulla filosofia della religione, in particolare il dibattito tra realismo e anti-realismo teologico, e la questione (sollevata da D.Z. Phillips, in chiave wittgensteiniana) se il linguaggio religioso abbia un referente trascendente o sia interamente interno al gioco linguistico della comunità credente. In terzo luogo, l'estensione dell'analisi al pensiero moderno e contemporaneo — da Nicola Cusano (*De docta ignorantia*, 1440, dove la "dotta ignoranza" è esplicitamente un "quarto momento" che combina elementi dossologici, recognitivi e istituzionali) a Heidegger (la cui critica dell'onto-teologia e la cui tematica del "silenzio dell'Essere" possono essere lette come una trasformazione moderna del problema dell'ineffabilità) fino a Jean-Luc Marion (il cui concetto di "saturated phenomenon" riprende, in chiave fenomenologica, la logica dionisiana dell'eccedenza).
+
+Il paradosso con cui abbiamo aperto — il linguaggio deve dire ciò che non può dire — non è risolto da nessuna delle tradizioni esaminate, né potrebbe esserlo: esso è, come abbiamo cercato di mostrare, una condizione trascendentale del rapporto tra linguaggio finito e incondizionato, non un problema eliminabile con strumenti migliori. Ma ciascuna tradizione ha trovato il modo di *abitare* il paradosso, di farne una pratica piuttosto che un problema, di trasformarlo da impasse logica in risorsa spirituale e intellettuale. Il linguaggio finito non può dire l'infinito; ma nel suo stesso fallire — nel suo affermare, negare, superare, e poi ricominciare — esso traccia il contorno di ciò che lo eccede. È questo contorno — questa grammatica dell'impossibile — che le tradizioni dell'ineffabile, ciascuna a modo proprio, hanno pazientemente disegnato.
+
+La "grammatica trascendentale dell'ineffabile" non è dunque una meta-teoria che dissolve le differenze tra le tradizioni in un'unità superiore: è uno *strumento analitico* che, proprio nel rendere visibile la convergenza strutturale, rende altrettanto visibile — e altrettanto significativa — la divergenza pragmatica. Le tradizioni non dicono la stessa cosa; ma tutte tacciono nello stesso modo, e tutte, dopo il silenzio, ricominciano a parlare — ciascuna con la propria voce, il proprio registro, la propria destinazione. È in questa ripresa del discorso — nel "quarto momento" in cui il linguaggio, attraversata la propria impossibilità, si ritrova e ricomincia — che ciascuna tradizione mostra il suo volto più proprio. E forse è in questo ricominciare, più che nel tacere, che risiede la vera sapienza dell'indicibile.
 
 ---
 
@@ -477,6 +483,14 @@ Ye, Shaoyong, *Mūlamadhyamakakārikā and Buddhapālita's Commentary: A Philolo
 
 Vaidya, P.L. (ed.), *Madhyamakaśāstra of Nāgārjuna with the Commentary: Prasannapadā by Candrakīrti*, Darbhanga, Mithila Institute, 1960.
 
+**Agostino d'Ippona:**
+*De doctrina christiana*, ed. J. Martin, Corpus Christianorum Series Latina 32, Turnhout, Brepols, 1962.
+
+*De Trinitate*, ed. W.J. Mountain – F. Glorie, Corpus Christianorum Series Latina 50–50A, Turnhout, Brepols, 1968.
+
+**Laozi:**
+*Daodejing*, ed. D.C. Lau (trad. ingl.), *Tao Te Ching*, London, Penguin, 1963; per il testo cinese: edizione critica di R.G. Henricks, *Lao Tzu's Tao Te Ching: A Translation of the Startling New Documents Found at Guodian*, New York, Columbia University Press, 2000.
+
 ### Fonti secondarie
 
 Adams, M.M., "Re-reading De Grammatico, or Anselm's Introduction to Aristotle's Categories", in *Documenti e studi sulla tradizione filosofica medievale* XI (2000), pp. 83–112.
@@ -506,6 +520,16 @@ Stang, C.M., *Apophasis and Pseudonymity in Dionysius the Areopagite: "No Longer
 Sweeney, E., *Logic, Theology and Poetry in Boethius, Anselm, Abelard, and Alan of Lille: Words in the Absence of Things*, New York, Palgrave Macmillan, 2006.
 
 Valente, L., *Filosofie del medioevo. Essere, felicità, linguaggio*, Firenze, Le Monnier Università / Mondadori Education, 2023.
+
+Austin, J.L., *How to Do Things with Words*, Oxford, Clarendon Press, 1962.
+
+Marion, J.-L., *De surcroît. Études sur les phénomènes saturés*, Paris, Presses Universitaires de France, 2001.
+
+Phillips, D.Z., *The Concept of Prayer*, London, Routledge & Kegan Paul, 1965.
+
+Wittgenstein, L., *Tractatus logico-philosophicus*, London, Routledge & Kegan Paul, 1921; trad. it. di A.G. Conte, Torino, Einaudi, 1964.
+
+Wittgenstein, L., *Philosophische Untersuchungen / Philosophical Investigations*, ed. G.E.M. Anscombe – R. Rhees, Oxford, Blackwell, 1953.
 
 ### Strumenti di orientamento
 
