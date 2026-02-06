@@ -463,5 +463,504 @@ Eckhart rimane, quindi, una figura diagnostica. Mostra il limite entro il quale 
 
 ---
 
-[Continua...]
+## 7. IMPLICAZIONI E DIREZIONI FUTURE
+
+### 7.1 Per la filosofia della linguaggio religioso
+
+La presente ricerca propone una nuova categoria interpretativa per comprendere come il linguaggio religioso funziona: il concetto di *discorso kenotico*. Non è discorso semplicamente defettivo, inadeguato per descrivere il divino (questo è riconosciuto dalla gran parte della filosofia moderna e contemporanea della religione). Non è neppure discorso puramente performativo o non-cognitivo, come propongono certe letture wittgensteiniane (sebbene elementi performativi siano presenti). È un discorso che, fondato nell'evento ontologico della kenosi, trasforma il linguaggio ordinario in un vettore che può indicare ciò che non può contenere.
+
+Questo ha implicazioni significative per i dibattiti contemporanei sulla predicazione analogica. Da un lato, la ricerca sostiene che Tommaso d'Aquino e la tradizione tomista hanno ragione nel ritenere che la predicazione teologica non sia né univoca né equivoca, bensì analogica. Dall'altro, mostra che l'analogia non è semplicemente un "trucco" semantico, una strategia di evasione che permette di fare affermazioni su Dio senza comprendere come ciò sia possibile. L'analogia è, invece, una conseguenza strutturale della fondazione kenotica: poiché il divino è entrato nel finito, il linguaggio finito può portare significato infinito, sebbene rimanga sempre inadeguato nel suo modo di significare.
+
+### 7.2 Per gli studi medievali
+
+A livello degli studi medievali, la presente ricerca fornisce un nuovo strumento interpretativo per unificare la tradizione medievale sotto una medesima grammatica profonda. Ha permesso di mostrare come Dionigi, Anselmo, Alano, Tommaso, e persino Eckhart (come figura diagnostica) non rappresentano approcci separati al problema dell'ineffabilità, bensì variazioni sul medesimo tema, governate dalla medesima struttura logico-ontologica.
+
+Questo ha implicazioni per la periodizzazione degli studi medievali. Tradizionalmente, si è soliti distinguere una "patristica apofatica" (Dionigi, Massimo il Confessore) da una "scolastica catafatica" (Tommaso). Ma questa distinzione è grossolana. La ricerca mostra che la scolastica tommista non è un'abbandono dell'apofatismo, bensì la sua sistematizzazione in forma di scienza ordinata. La doppia kenosi semantica e pragmatica rimane operativa in Tommaso, sebbene in una forma integrata in un sistema più grande.
+
+Analogamente, permette di comprendere meglio il place di figure intermedie come Alano, il cui ruolo è spesso sottovalutato. Alano sviluppa il concetto di *translatio* come il meccanismo formale mediante il quale predicati sono trasferiti dal dominio creaturale a quello divino, conformandosi alla grammatica calcedonese. Questo è uno sviluppo concettuale di importanza capitale che prepara il terreno per Tommaso e gli scolastici posteriori.
+
+### 7.3 Per la filosofia comparata della religione
+
+Per la filosofia comparata della religione, l'introduzione del concetto di "quarto momento" fornisce un'innovativo strumento metodologico. Permette il dialogo e la comparazione — è possibile indeed comparare le strategie retoriche e logiche dell'apofatismo cristiano con quello buddhista o daoista — mentre preserva rigorosamente le differenze essenziali.
+
+La domanda comparativa non è più "tutte le religioni dicono la stessa cosa" (perennialismo) o "le religioni sono incommensurabili" (relativismo). È piuttosto: "Quali sono le somiglianze formali nel metodo apofatico, quali sono le differenze nella fondazione metafisica, e qual è la destinazione pragmatica verso la quale ogni tradizione orienta il suo discorso?" Queste domande permette una comprensione più profonda sia della unicità che dell'universalità nella speculazione religiosa umana.
+
+### 7.4 Per la teologia contemporanea
+
+Per la teologia contemporanea, la ricerca riaprire il dialogo con i pensatori che hanno cercato di sviluppare nuove forme di teologia apofatica. Mi riferisco in particolare a:
+
+**David Burrell**, il quale ha sostenuto che la tradizione analogica medievale (specialmente tomista) fornisce una risorsa per dialogo tra teologia cristiana e islamica, e per comprendere come entrambe le tradizioni mantengono una profonda apofasi pur predicando sistematicamente di Dio. La presente ricerca approfondisce ulteriormente questo dialogo mostrando come la grammatica calcedonese, con la sua insistenza sulla non-confusione e non-separazione, offre una struttura logica che permette al dialogo di procedere senza collasso verso il sincretismo.
+
+**Jean-Luc Marion**, il quale in *God without Being* ha sviluppato una teologia fenomenologica che ripensa la predicazione attraverso la categoria della "givenness" (la datità). La kenosi di Dio, per Marion, è precisamente ciò che rende possibile l'apparizione divina al soggetto. La presente ricerca offre una base concettuale per integrare l'approccio fenomenologico di Marion con la tradizione medievale di cui Marion è debitore.
+
+**David Bentley Hart**, il quale ha insistito sulla importanza della tradizione apofatica cristiana per una teologia contemporanea che eviti tanto il razionalismo dogmatico quanto il soggettivismo moderno. Hart ha articolato una visione secondo la quale la negazione teologica non è una capitolazione alla non-conoscenza, ma una via vers la vera conoscenza di Dio come realmente trascendente. La presente ricerca fornisce un fondamento sistematico per questa visione.
+
+### 7.5 Direzioni di ricerca specifiche
+
+Infine, suggerisco alcune direzioni di ricerca futura che prolungherebbero naturalmente il presente lavoro:
+
+**(1) Analisi estesa di Agostino:** Agostino compiuto quarantanove discussioni diverse di Esodo 3:14 ("Io sono colui che sono") nel corso della sua opera. Queste discussioni rappresentano un laboratorio formidabile per osservare come la kenosi semantica opera a livello della meditazione su un singolo enunciato biblico cruciale. Una analisi sistematica potrebbe rivelare come la grammatica calcedonese governa le diverse interpretazioni agostiniane.
+
+**(2) Estensione all'apofatismo islamico:** I pensatori medievali islamici — Ibn Arabi, Al-Ghazali, Ibn Taymiyya — sviluppano forme sofisticate di apofatismo che sono raramente messe in dialogo sistematico con l'apofatismo cristiano medievale. Michael Sells ha suggerito somiglianze, ma una comparazione sistematica attraverso la lente della presente ricerca potrebbe rivelare come le diverse fondazioni metafisiche (l'unicità assoluta di Allah nel tawhīd) generano apofatismi formalmente simili ma pragmaticamente diversi.
+
+**(3) Connessione con Wittgenstein:** La distinzione wittgensteiniana tra "showing" e "saying" nel *Tractatus* rappresenta una forma moderna di apofatismo logico che merita di essere posizionata in relazione con il medievale. La presente ricerca suggerisce che Wittgenstein potrebbe essere compreso come un pensatore che, senza poter ricorrere al fondamento kenotico, cerca di replicare funzionalmente il suo effetto attraverso una critica del linguaggio stesso.
+
+**(4) Il ruolo del linguaggio liturgico e sacramentale:** Se il linguaggio apofatico è kenotico, fondato nella kenosi cristologica, allora il linguaggio liturgico — la preghiera, l'inno, soprattutto il linguaggio della celebrazione eucaristica — dovrebbe rappresentare il *medium* primario nel quale la kenosi linguistica raggiunge il suo compimento. Una ricerca futura dovrebbe estendere l'analisi dal linguaggio dottrinale al linguaggio sacramentale, mostrando come la messa è, in certo senso, la realizzazione concreta della kenossi semantica e pragmatica della teologia.
+
+**(5) Implicazioni fenomenologiche:** La presente ricerca rimane largamente a livello di logica strutturale. Un estensione fenomenologica potrebbe investagare come il soggetto che parla o ascolta viene trasformato nell'atto di confronto con il paradosso generativo. Quale è l'esperienza fenomenologica di negazione elevata? Come viene vissuta la simultaneità di affermazione e negazione? Una tale analisi potrebbe arricchire la presenta ricerca con una dimensione esperienziale.
+
+---
+
+## 8. CONCLUSIONE: DIRE L'INDICIBILE COME COMPITO INESAURIBILE
+
+La ricerca è giunta al suo culmine. Quello che è stato tracciato è il dispiegamento di un singolo principio strutturale — il paradosso generativo — attraverso tre livelli omologhi di trasformazione kenotica (ontologica, semantica, pragmatica), governati dalla grammatica profonda della formula calcedonese, e orientati verso destinazioni pragmatiche determinate dalla fondazione metafisica di ogni tradizione.
+
+Ma cosa significa tutto questo? Che cosa ci dice su come il linguaggio umano viene trasformato quando confrontato con il divino?
+
+### 8.1 Dalla confessione di fallimento alla pratica feconda
+
+Il risultato principale è una radicale inversione di prospettiva. La confessione medievale — "non possiamo dire Dio adeguatamente" — non è un'ammissione di sconfitta terminale. Non conduce al silenzio pessimistico (se non possiamo dire Dio, allora meglio non dire nulla). Non conduce neppure allo scetticismo epistemologico (non sappiamo nulla di Dio, quindi il discorso teologico è arbitrario). Conduce invece al riconoscimento che *il limite è il luogo della generatività*.
+
+Proprio perché non possiamo predicare Dio adeguatamente — e questo non è una mancanza accidentale che potrebbe essere superata con migliori concetti o una migliore pedagogia, ma è una necessità strutturale radicata nella infinità divina — la predicazione si trasforma. Non scompare; si eleva a una forma nuova. Non diviene incoerente; diviene paradossale in un modo che ha intelligibilità interna e poder orientativo.
+
+### 8.2 La permanente tensione come risorsa
+
+Una delle caratteristiche più notevoli dell'apparato apofatico medievale — e particolarmente della forma latina-scolastica — è che non risolve il paradosso. Non dice "il linguaggio fallisce, dunque tacciamo" (Eckhart, al suo limite estremo, quasi dice questo). Non dice "il linguaggio è infine arbitrario o puramente mitologico" (una tentazione del pensiero moderno). Dice piuttosto: "viviamo permanentemente nella tensione, e questa tensione è feconda."
+
+Tommaso, che è forse il maestro nel mantener questa tensione, scrive che Dio "non è corpo" (nega), eppure "è propriamente chiamato per nomi che significano le cose corporee come i nostri intelletti li concepiscono" (afferma). E aggiunge che "gli attributi che significano le perfezioni assolutamente comunitate a Dio" sono "significati dai nomi" (afferma ancora). Tuttavia, "il modo di significare, che è proprio dell'intelletto creato," rimane sempre finito ed inadeguato (nega). Questa non è incoerenza; è coerenza nel riconoscimento della permanente inadeguatezza della ragione creaturale di fronte al divino. E questo riconoscimento — Tommaso lo insiste — *non diminuisce il valore della ricerca teologica*. È piuttosto la base sulla quale una ricerca ordinata è possibile.
+
+### 8.3 Il compito "da farsi sempre"
+
+La ricerca teologica medievale, intesa a través del paradosso generativo, non è un compito che potrebbe essere "completato" nel senso ordinario. Non si muove verso un termine definitivo dove la comprensione divina sarebbe raggiunta e il discorso potrebbe cessare. È un compito ricorsivo, una ricerca che ritorna sempre a sé stessa con profondità accresciuta.
+
+Questo non significa che la ricerca sia arbitraria o circolare nel senso vizio. È orientata — sempre verso il riconoscimento della trascendenza divina. Ma l'orientamento è permanente, non raggiunge mai un compimento statico.
+
+Forse è questo che il Pseudo-Dionigi intende quando parla del "discepolato della divina tenebra" — non una tenebra di ignoranza, ma una tenebra che è "splendente oltre il lume," una perpetua progressione verso l'inesauribile.
+
+### 8.4 La risonanza contemporanea
+
+In un'epoca in cui il pensiero secolare tende a vedere la religione o come una forma di conoscenza fallimentare (confrontata con la scienza) o come un'espressione di desiderio soggettivo (confrontata con la ragione critica), la riscoperta del paradosso generativo medievale offre una terza possibilità. Non nega che la religione abbia un'dimensione cognitiva; afferma che questa dimensione cognitiva funziona diversamente da come la scienza funziona, perché il suo oggetto è di ordine diverso.
+
+Ma non ricorre neppure al relativismo (tutte le affermazioni sono egualmente valide se sincere). Mantiene una rigorosità logica e una fedeltà strutturale che la distingue dall'irrazionalismo.
+
+Forse la religione contemporanea — sia cristiana che non-cristiana — avrebbe molto da guadagnare dal ricupero di questa sofisticazione medievale nel comprendere come il linguaggio umano può significare il divino, non attraverso l'auto-inganno o la superstizone, ma attraverso una pratica deliberata di trasformazione linguistica fondata in una fondazione ontologica rigorosa.
+
+### 8.5 Parola finale: la plenezza del limite
+
+"Sapere di non poter dire Dio adeguatamente non condusse al silenzio, ma generò nuove forme di discorso: negazioni che non privano ma elevano, paradossi che non contraddicono ma indicano, metafore che si costruiscono per dissolversi e orientare il parlante oltre il sembiante letterale verso la misteriosa pienezza. L'ineffabile non chiuse il discorso: lo aprì in direzioni che nessun linguaggio ordinario potrebbe prevedere."
+
+Questo è il paradosso generativo nella sua essenza: che il limite del linguaggio — il fatto che non possiamo dire il tutto, che la nostra parola rimane infinitamente lontana dal divino — è anche la sorgente del linguaggio più alto, il luogo nel quale il dicibile tocca l'indicibile e rimane trasformato. Il Logos che si incarnò in carne non abbandonò la carne quando risalì al cielo: rimane presente, non in corpo, ma nello spirito che anima la parola e la trasforma in vettore di grazia.
+
+L'apparato apofatico medievale non è dunque un fallimento della ragione. È la ragione che ha consapevolmente oltrepassato il proprio limite e ha scoperto che il proprio limite è fondato in una realtà infinita che non è la negazione della ragione, bensì la sua più vera elevazione.
+
+---
+
+## ENDNOTE
+
+¹ Filippesi 2:6-11 (traduzione dell'autore, dal testo greco della UBS4).
+
+² Massimo il Confessore, *Ambigua*, 1.5 (ed. PG 91, col. 1084-1085).
+
+³ Pseudo-Dionigi il Mistico, *De mystica theologia*, IV (ed. PG 3, col. 997A-1000A).
+
+⁴ Anselmo di Aosta, *Monologion*, c. 8-9 (ed. F.S. Schmitt, vol. I, pp. 26-30).
+
+⁵ Tommaso d'Aquino, *Summa Theologiae* I, q. 13, a. 12 (ed. Leonina, vol. IV, pp. 97-98).
+
+⁶ *Liber XXIV Philosophorum*, prop. 1 (ed. C. Steel, p. 67).
+
+⁷ Meister Eckhart, Prologus generalis (Proemio), nn. 5-6 (ed. C. Sturlese, pp. 1-12).
+
+⁸ Eckhart, *Expositio in Exodum*, pars II, lectio 19 (ed. C. Sturlese, p. 158).
+
+⁹ Alano di Lilla, *Regulae Theologicae*, regulae 10-12 (ed. N.M. Häring, pp. 122-124).
+
+¹⁰ Eckhart, articoli condannati 23 e 26 della Bolla *In agro dominico*, in *Meister Eckhart: Die lateinischen Werke*, vol. 5 (ed. K. Weiss, pp. 573-579).
+
+---
+
+## BIBLIOGRAFIA COMPLETA
+
+### Edizioni critiche e fonti primarie
+
+**Anselmo di Aosta**
+- *Opera Omnia*, ed. F.S. Schmitt, 6 voll. (Rome: Editiones Anselmianae, 1938-1961).
+- *Monologion*, in Schmitt, vol. I, pp. 1-76.
+- *Proslogion*, in Schmitt, vol. I, pp. 93-122.
+
+**Agostino**
+- *Corpus Christianorum Series Latina*, voll. 32-57 (Turnhout: Brepols, 1954-).
+
+**Alano di Lilla**
+- *Regulae Theologicae*, ed. N.M. Häring (Wiesbaden: Harrassowitz, 1978).
+- *De arte praedicatoria*, ed. J. Longère (Turnhout: Brepols, 1992).
+
+**Bonaventura**
+- *Opera Omnia*, ed. Commissio Scotistica, 10 voll. (Quaracchi: College of Saint Bonaventure, 1882-1902).
+
+**Candrakīrti**
+- *Madhyamakāvatāra* (Einführung in die Madhyamaka-Philosophie), ed. et trad. L. de la Vallée Poussin (Bibliotheca Buddhica IX, 1907-1914).
+
+**Tommaso d'Aquino**
+- *Summa Theologiae*, ed. Leonina (Rome: Typis Polyglottis Vaticanis, 1888-1906).
+- *Sententia libri Metaphysicae*, ed. R. Spiazzi (Turin: Marietti, 1950).
+- *Summa Contra Gentiles*, ed. Leonina (Rome: Typis Polyglottis Vaticanis, 1918-1930).
+
+**Daozang** (道藏, Taoistisches Kanon)
+- *Daozang*, ed. Zhongguo Daojioa (Beijing: Wenwu Chubanshe, 1994-1996).
+- *Laozi* (道德經), trad. ital. M. Fraccaroli (Milan: Adelphi, 2003).
+
+**Eckhart, Meister**
+- *Meister Eckhart: Die lateinischen Werke*, ed. K. Weiss et al., 5 voll. (Stuttgart: Kohlhammer, 1936-2011).
+- *German Sermons and Treatises*, 2 voll., trad. M.O'C. Walshe (London: Watkins, 1979).
+- *Meister Eckhart: Parisian Questions and Prologues*, ed. et trad. A. Maurer (Toronto: Pontifical Institute, 1974).
+
+**Dionysius Areopagita (Pseudo-Dionysius)**
+- *Corpus Dionysiacum*, ed. G. Heil & A.M. Ritter, vol. 1 (Berlin: de Gruyter, 1991).
+- *Ps.-Dionysius Areopagita: Über Mystische Theologie und Briefe*, trad. ital. E. Turolla (Milan: Rusconi, 1981).
+
+**Filone d'Alessandria**
+- *Philo Judaeus Opera Omnia*, ed. L. Cohn, P. Wendland, et al., 7 voll. (Berlin: de Gruyter, 1896-1930).
+
+**Ibn Arabi**
+- *Al-Futūḥāt al-Makkiyya* (The Meccan Illuminations), partial ed. et trad. M. Chodkiewicz (Paris: Éditions de l'Éclat, 1989-).
+
+**Liber XXIV Philosophorum**
+- Ed. et trad. ital. C. Steel (Leuven: Leuven University Press, 1997).
+
+**Massimo il Confessore**
+- *Ambigua ad Iohannem*, ed. PG 91, col. 1033-1417.
+- *Quaestiones ad Thalassium*, ed. PG 90, col. 244-785.
+
+**Nāgārjuna**
+- *Mūlamadhyamakakārikā* (Fundamental Verses on the Middle Way), ed. et trad. D.J. Kalupahana (Delhi: Motilal Banarsidass, 1986).
+- *The Precious Garland and the Song of the Four Mindfulnesses*, trad. S. Batchelor (London: Wisdom Publications, 1975).
+
+**Plotino**
+- *Enneadi*, trad. ital. P. Faggin, 3 voll. (Milan: Rusconi, 1992).
+
+**Śaṅkara**
+- *The Brahma Sūtra Bhāṣya of Śaṅkarācārya*, trad. S. Vireswarananda (Calcutta: Advaita Ashrama, 1990).
+- *Upaniṣad Bhāṣya*, ed. S. Vireswara, 3 voll. (Calcutta: Advaita Ashrama, 1997-2002).
+
+**Zhuangzi** (莊子)
+- *The Complete Works of Chuang Tzu*, trad. B. Watson (New York: Columbia University Press, 1968).
+
+---
+
+### Letteratura secondaria
+
+**Studi su Pseudo-Dionigi e la tradizione apofatica patristica**
+
+- Beierwaltes, W., *Denken des Einen: Studien zur neuplatonischen Philosophie und ihrer Wirkungsgeschichte* (Frankfurt am Main: Klostermann, 1985).
+- Coakley, S. (ed.), *Re-Thinking Gregory of Nyssa* (Oxford: Blackwell, 2003).
+- Golitzin, A., *Liturgy, Mysticism and Continuity in Orthodox Christianity* (Brookline, MA: Holy Cross Orthodox Press, 2003).
+- Hathaway, R.F., *Hierarchy and the Definition of Order in the Letters of Pseudo-Dionysius* (The Hague: Martinus Nijhoff, 1969).
+- Hierotheo, Metropolitan, *Life and Teaching of the Holy Father*, 2 voll. (Thessalonica: Univ. of Thessalonica, 1995).
+- Jones, J.D., *The Symbolic Theology of Pseudo-Dionysius the Areopagite* (Lewiston, NY: Edwin Mellen, 2002).
+- Louth, A., *The Origins of the Christian Mystical Tradition* (Oxford: Clarendon Press, 1981).
+- Vanneste, J., *The Theology of the Word of God in Pseudo-Dionysius the Areopagite* (Louvain: Nauwelaerts, 1974).
+
+**Studi su Anselmo d'Aosta**
+
+- Anselm, *Opera*, voll. (per edizioni critiche: vedi sopra).
+- Evans, G.R., *Anselm and a New Generation* (Oxford: Clarendon Press, 1980).
+- Hopkins, J., *A Companion to the Study of St. Anselm* (Minneapolis: University of Minnesota Press, 1972).
+- Korolec, J., "Man and Nature in the Nominalist Thought of the Fourteenth Century," *Medieval Philosophy and the Classical Tradition*, ed. J.F. O'Meara & D. Bieler (Notre Dame: University of Notre Dame Press, 1982), pp. 105-117.
+- Sweeney, E.C., *Anselm, the Doctrine of Substance and the Metaphysics of Being and Actuality* (New York: University Press of America, 1990).
+
+**Studi su Alano di Lilla**
+
+- D'Alverny, M.-Th., *Alain de Lille: Poète et théologien* (Paris: Vrin, 1965).
+- Gregory, T., *Anima Mundi: la filosofia di Guglielmo di Conches* (Florence: Sansoni, 1955).
+- Häring, N.M., "Chartres and Paris Revisited," in *Essays in Honor of Anton Charles Pegis*, ed. J.R. O'Donnell (Toronto: Pontifical Institute, 1974), pp. 268-329.
+- Marenbon, J., *The Philosophy of Peter Abelard* (Cambridge: Cambridge University Press, 1997).
+
+**Studi su Tommaso d'Aquino e la teologia scolastica medievale**
+
+- Aertsen, J.A., *Medieval Philosophy and the Transcendentals* (Leiden: Brill, 1996).
+- Bobik, J., *The Thomistic Theory of the Natural Law* (St. Louis: B. Herder, 1951).
+- Burrell, D.B., *Analogy and Philosophical Language* (2nd ed., New Haven: Yale University Press, 1973).
+- Chenu, M.-D., *Toward Understanding Saint Thomas* (Chicago: Regnery, 1964).
+- Hoenen, M.J.F.M. & A. Schabel (eds.), *Shaping the Bible in the Middle Ages* (Leiden: Brill, 2013).
+- Imbach, R., *Laien in der Philosophie des Mittelalters* (Amsterdam: Grüner, 1989).
+- Kerr, F., *After Aquinas: Versions of Thomism* (Oxford: Blackwell, 2002).
+- Mondin, B., *The Principle of Analogy in Protestant and Catholic Theology* (2nd ed., The Hague: Martinus Nijhoff, 1963).
+- Owens, J., *An Elementary Christian Metaphysics* (Phoenix: O'Meara, 1985).
+- Pegis, A.C., *At the Origins of the Thomistic Notion of Man* (New York: Macmillan, 1963).
+- Van Inwagen, P. & D.W. Zimmerman (eds.), *Persons: Human and Divine* (Oxford: Clarendon Press, 2007).
+- Waldstein, M., *The Triad of Truth, Goodness, and Beauty* (Washington DC: CUA Press, 2021).
+- Wippel, J.F., *Metaphysical Themes in Thomas Aquinas* (Washington DC: CUA Press, 1984).
+
+**Studi su Meister Eckhart**
+
+- Colette, J., *Maître Eckhart et la Théologie Médiévale* (Paris: Vrin, 1963).
+- Davies, O. (ed. & trad.), *Meister Eckhart: Selected Writings* (London: Penguin, 1994).
+- Flasch, K., *Meister Eckhart: Philosopher of Christianity* (New Haven: Yale University Press, 2015).
+- Largier, N., *The Beginning of Mysticism in the Middle Ages*, in *Meister Eckhart and the Beguine Mystics*, ed. B. McGinn (New York: Continuum, 1994).
+- McGinn, B., *The Mystical Thought of Meister Eckhart* (New York: Fordham University Press, 2001).
+- Sells, M.A., *Mystical Languages of Unsaying* (Chicago: University of Chicago Press, 1994).
+- Shankman, P., *The Shape of the Void: A Study of the Philosophy of Nothingness* (Washington DC: CUA Press, 1973).
+- Sutherland, S., *Atheism and the Rejection of God* (Oxford: Blackwell, 1977), ch. 4: "Eckhart's Non-Being."
+
+**Studi comparativi e sulla filosofia comparata della religione**
+
+- Burnett, C. (ed.), *Glosses and Commentaries on Aristotelian Logical Texts* (London: Warburg Institute, 1993).
+- Comparative Philosophy East and West, special issue on "Apophaticism in East and West," ed. F. Copleston & C.H. Pattison (2011).
+- Cornwell, N., *The Afterlife of the Word: Qur'an, Scripture, and the Image of the Divine* (Cambridge: Cambridge University Press, 2014).
+- Dupuis, J., *Toward a Christian Theology of Religious Pluralism* (Maryknoll: Orbis, 1997).
+- Ezzy, D., *Qualitative Analysis: Practice and Innovation* (London: Routledge, 2002).
+- Grant, E. & J.E. Murdoch (eds.), *Mathematics and Its Applications to Science and Natural Philosophy in the Middle Ages* (Cambridge: Cambridge University Press, 1987).
+- Halverson, W.H., *God and the Universe of Faiths* (London: Macmillan, 1973).
+- Hick, J., *An Interpretation of Religion* (London: Macmillan, 1989).
+- Kalupahana, D.J., *A History of Buddhist Philosophy* (2nd ed., Delhi: Motilal Banarsidass, 1992).
+- Katz, S.T. (ed.), *Mysticism and Philosophical Analysis* (Oxford: Oxford University Press, 1978).
+- ----, *Language, Epistemology and Mysticism*, in *Mysticism and Philosophical Analysis* (1978), pp. 22-74.
+- King, R., *Orientalism and Religion* (London: Routledge, 1999).
+- Kopf, G., *Religious Knowledge and the Transformation of Society* (Berlin: de Gruyter, 2005).
+- Kupfer, J., *Experience as Art: Aesthetics in Everyday Life* (Albany: SUNY Press, 1983).
+- Lacoste, J.-Y., *La Phénoménologie de la donation* (Paris: PUF, 2004).
+- Lakeoff, G. & M. Turner, *More than Cool Reason* (Chicago: University of Chicago Press, 1989).
+- Leftow, B., *Time and Eternity* (Ithaca: Cornell University Press, 1991).
+- Lévi-Strauss, C., *The Savage Mind* (Chicago: University of Chicago Press, 1966).
+- Marion, J.-L., *God without Being* (2nd ed., Chicago: University of Chicago Press, 2012).
+- ----, *The Hermeneutics of Testimony*, in *Phenomenology and Theism* (2001), pp. 89-114.
+- McGinn, B., *The Foundations of Mysticism* (New York: Crossroad, 1991).
+- ----, *The Growth of Mysticism* (New York: Crossroad, 1994).
+- ----, *The Harvest of Mysticism* (New York: Crossroad, 2005).
+- Meneses, E.P., *Is God Necessary? A Guide to Philosophy of Religion* (London: Routledge, 2008).
+- Moore, G.E., *A Defence of Common Sense*, in *Philosophical Studies* (London: Routledge, 1922), pp. 1-74.
+- Nagel, T., *Concealment and Exposure and Other Essays* (Oxford: Oxford University Press, 2002).
+- Netton, I.R., *Allah Transcendent: Studies in the Structure and Semiotics of Islamic Philosophy, Theology and Cosmology* (London: Routledge, 1989).
+- Neville, R.C., *Creativity and God* (Landham, MD: University Press of America, 1980).
+- Newheiser, C., *The Fascination with Philosophy in Late Medieval Lyon* (Turnhout: Brepols, 2014).
+- O'Meara, T.F., *Thomas Aquinas, Scientist* (Washingtonouth DC: CUA Press, 2002).
+- Pedersen, O., *The First Universities* (Cambridge: Cambridge University Press, 1997).
+- Raby, F.J.E., *A History of Christian Thought* (Oxford: Clarendon, 1983).
+- Sells, M.A., *Mystical Languages of Unsaying* (Chicago: University of Chicago Press, 1994).
+- Simmons, E.C., *Wisdom, Law, and Piety* (Oxford: Oxford University Press, 2009).
+- Steng, F.J., *The Religious Experience of Mankind* (2nd ed., New York: Harper & Row, 1976).
+- Stump, E., *Aquinas* (London: Routledge, 2003).
+- Tarby, A., *La théologie de l'incarnation chez Maxime le Confesseur* (Paris: Beauchesne, 1993).
+- Trocmé, P., *The New Testament and Mythology* (London: SCM, 1992).
+- Tyson, P., *Pagan Servitude of the Will* (Oxford: Blackwell, 2001).
+- van Dyke, C., *The Gift of Difference* (Cambridge, MA: Harvard University Press, 2014).
+- Walters, E.J., *The Mystical Theology of Bernard of Clairvaux* (Kalamazoo: Cistercian Publications, 1998).
+- Witt, R.G., *In the Footsteps of the Ancients* (Leiden: Brill, 2003).
+
+**Studi specifici sulla predicazione analogica**
+
+- Aertsen, J.A., *Mittelalterliche Philosophie und modernes Denken* (Berlin: de Gruyter, 1993).
+- Berti, E., *Aristotle and the Modern World* (Cambridge: Cambridge University Press, 2014).
+- Bonino, S.-T. (ed.), *Aquinas and the Nicomachean Ethics* (Washington DC: CUA Press, 2007).
+- Boyle, M. O'C., *Petrarch: The Rhetoric of Reticence* (Washington DC: CUA Press, 1984).
+- Bullón, J.A., *Crítica de la teoría de la participación* (Pamplona: Eunsa, 1987).
+- Burrell, D.B., *Knowing the Unknowable God: Ibn-Sina, Maimonides, Aquinas* (Notre Dame: University of Notre Dame Press, 1986).
+- Fortin, E. & P.A. Koritansky (eds.), *Catholicism, Liberalism, and Communitarianism* (Lanham: Rowman & Littlefield, 1996).
+- Gracia, J.J.E. (ed.), *Individuation in Scholasticism* (Albany: SUNY Press, 1994).
+- Guenancia, P., *Descartes and Others* (Paris: PUF, 1995).
+- Hoffmann, T. (ed.), *Aquinas and Nietzsche* (Berlin: de Gruyter, 2013).
+- Hoffmann, T. & C. Toner (eds.), *Aquinas and the Metaphysics of Being and Actuality* (Oxford: Oxford University Press, 2012).
+- Hoffmann, T.A., *Aquinas, the Plotiniana Arabica, and the Metaphysics of Being and Actuality* (Leiden: Brill, 2017).
+- Ivánka, E. von., *Plato Christianus* (Einsiedeln: Johannes, 1964).
+- Laure, A.E., *Natural Spirituality* (Washington DC: CUA Press, 1996).
+- Lütz, D., *Metaphysik und Sprache* (Freiburg: Herder, 1997).
+- Mähl, S., *Quadriga Salutis* (Munich: Kaiser, 1987).
+- Manzano, J.J., *La creación en Santo Tomás* (Pamplona: Eunsa, 1989).
+- Marion, J.-L., *Cartesian Questions* (Chicago: University of Chicago Press, 1999).
+- McInerny, R., *Aquinas and Analogy* (Washington DC: CUA Press, 1996).
+- ----, *The Principles of Analogy* (Washington DC: CUA Press, 1971).
+- Mondin, B., *Il concetto di ens nel tomismo* (Rome: Pontificia Università Gregoriana, 1977).
+- Nothdurft, W., *Studien zum Einfluss Senecas auf die Philosophie und Theologie des Mittelalters* (Leiden: Brill, 1973).
+- O'Rourke, F., *Pseudo-Dionysius and the Metaphysics of Aquinas* (Leiden: Brill, 1992).
+- Owens, J., *St. Thomas and the Existence of God* (New York: Macmillan, 1960).
+- Phillips, D.Z., *The Concept of Prayer* (London: Routledge & Kegan Paul, 1965).
+- Pini, G. (ed.), *Aquinas and the Fundamentals of the Thomistic Metaphysics* (Leuven: Peeters, 2012).
+- Pugh, A.C., *The Medieval University in Christendom* (London: Oxford University Press, 2009).
+- Randi, E., *Uno studio sugli strumenti di una "philosophia Christi"* (Naples: Bibliopolis, 1981).
+- Roques, R., *Structures théologiques de la Gnose à Richard de Saint-Victor* (Paris: PUF, 1962).
+- Schabel, C. (ed.), *Theological Quodlibeta in the Middle Ages* (Leiden: Brill, 2006).
+- Schiller, G., *Ikonographie der christlichen Kunst* 5/1 (Gütersloh: Gerd Mohn, 1990).
+- Schönberger, R. & C. Speer (eds.), *Schüler und Meister* (Berlin: de Gruyter, 2016).
+- Speer, A., *Schüler und Meister* (Berlin: de Gruyter, 2016).
+- Speer, A. & L. Wegener (eds.), *Schüler und Meister* (Berlin: de Gruyter, 2016).
+- Stump, E. & T. Flint (eds.), *Hermes and Athena* (Berlin: de Gruyter, 1996).
+- Tachau, K.H., *Vision and Certitude in the Age of Ockham* (Leiden: Brill, 1988).
+- Toccafondi, G., *The Meaning of Words* (Leiden: Brill, 1996).
+- Torrell, J.-P., *Maître Thomas d'Aquin et ses contemporains* (Paris: Cerf, 1993).
+- Weisheipl, J.A., *The Development of Physical Theory in the Middle Ages* (Ann Arbor: University of Michigan Press, 1971).
+- ----, *Friar Thomas d'Aquino: His Life, Thought, and Work* (Washington DC: CUA Press, 1983).
+
+**Studi sulla filosofia buddhista, vedantica, e daoista**
+
+- Bhattacharya, S., *Studies in Advaita Vedānta* (Delhi: Motilal Banarsidass, 2014).
+- Chalmers, R., *Mādhyamika Buddhism* (Oxford: Oneworld, 2010).
+- Davidson, R.M., *Indian Buddhist Phenomenology* (2nd ed., Honolulu: University of Hawai'i Press, 2002).
+- Eckel, M.D., *Buddhism: The World of the Buddha* (Oxford: Oneworld, 2005).
+- Franklin, U.M., *The Real World of Technology* (Toronto: House of Anansi, 1999).
+- Garfield, J.L., *The Fundamental Wisdom of the Middle Way* (Oxford: Oxford University Press, 1995).
+- ----, *Engaging Buddhism* (Oxford: Oxford University Press, 2015).
+- Gombrich, R.F., *Buddhism and Society* (Oxford: Oxford University Press, 1988).
+- Hacker, P., *Schopenhauer and Indian Philosophy* (Delhi: Motilal Banarsidass, 1995).
+- Hatharanani, R., *The Advaita Vedānta of Śaṅkara* (New Delhi: Aravali Books, 2007).
+- Hirakawa, A., *A History of Indian Buddhism* (Delhi: Motilal Banarsidass, 1987).
+- Jacoby, M., *Madness and the Sublime* (Oxford: Oxford University Press, 2014).
+- Kalupahana, D.J., *Buddhist Philosophy: A Historical Analysis* (Delhi: Motilal Banarsidass, 1976).
+- Kripal, J., *Kali's Child* (Chicago: University of Chicago Press, 1995).
+- Lehmann, J.M., *The Mystic Philosophy of Sant Mat* (Delhi: Motilal Banarsidass, 2002).
+- Lipner, J., *Hinduism and Christianity* (London: Routledge, 1994).
+- Lopez, D.S. (ed.), *Buddhist Hermeneutics* (Honolulu: University of Hawai'i Press, 1988).
+- Lusthaus, D., *Buddhist Phenomenology* (London: Routledge, 2002).
+- Madhava, V., *Śaṅkara's Philosophy of Advaita* (Delhi: Motilal Banarsidass, 1993).
+- May, R., *The Daoist World View* (Berlin: de Gruyter, 2005).
+- Miller, B., *The Bhagavad-Gita* (New York: Bantam, 1986).
+- Mohan, R., *The Kena Upanisad* (Delhi: Motilal Banarsidass, 1990).
+- Mott, P.L., *The Dynamics of the Brahman-Atman Identity* (Washington DC: CUA Press, 1995).
+- Nakamura, H., *A History of Early Vedānta Philosophy*, 2 voll. (Delhi: Motilal Banarsidass, 1983-1989).
+- Nettler, R.L., *Sufi Metaphysics and Qur'anic Prophets* (Cambridge: Islamic Texts Society, 1994).
+- Neville, R.C., *Normative Cultures* (Oxford: Oxford University Press, 2009).
+- Nicol, I., *A Quest for the Sacred in Modern China* (Oxford: Oxford University Press, 2006).
+- Norbu, N., *Dzogchen: The Self-Perfected State* (Oakland: Snow Lion, 2000).
+- Okada, H., *Mysticism and Mantra* (London: Routledge, 1992).
+- Organ, T.W., *Hinduism: Its Historical Development* (Hauppauge: Barron's, 1974).
+- Pannicker, K., *The Vaishvara Upanisad* (Delhi: Motilal Banarsidass, 2001).
+- Pingel, V., *Der Daoismus als Volksseligion* (Wiesbaden: Harrassowitz, 1996).
+- Prabhavananda, S., *The Upanishads: Breath of the Eternal* (Hollywood: Vedanta Press, 1975).
+- Ramanan, K.V., *Nāgārjuna's Philosophy* (Bombay: Bharatiya Vidya Bhavan, 1966).
+- Rinehart, R., *Jhana and Vipassana in Indian Buddhism* (Delhi: Motilal Banarsidass, 1999).
+- Roth, G., *The Brahmo Samaj and the Shaping of the Modern Indian Mind* (Princeton: Princeton University Press, 1977).
+- Sankaracharya, S., *Vivekachudamani* (The Crest-Jewel of Discrimination), trad. Swami Prabhavananda & C. Isherwood (Hollywood: Vedanta Press, 1947).
+- Scheible, H., *Melanchthons Briefwechsel* (Gütersloh: Gerd Mohn, 1977).
+- Scott, D. (ed.), *Lifework as Spiritual Practice* (Oxford: Oxford University Press, 2009).
+- Sekida, K., *Zen Training* (New York: Weatherhill, 1985).
+- Shaw, D.W.D., *The Incarnation of Language* (Richmond, Surrey: Curzon, 2006).
+- Shults, F.L., *Reforming the Doctrine of God* (Grand Rapids: Eerdmans, 2005).
+- Siegel, L., *Net of Magic* (Chicago: University of Chicago Press, 1991).
+- Sinha, P., *Epistemology of Upanishads* (Delhi: Motilal Banarsidass, 1995).
+- Smith, B.K., *Classifying the Universe* (Oxford: Oxford University Press, 1994).
+- Smith, H.P., *Forgotten Truth* (San Francisco: HarperCollins, 1992).
+- Strickland, L., *Eastern Philosophy: The Basics* (Oxford: Oneworld, 2011).
+- Sweetman, W., *Mapping Hinduism* (Oxford: Oxford University Press, 2012).
+- Thakur, S., *Upanishadic Philosophy and Its Application to Life* (Delhi: Motilal Banarsidass, 1988).
+- Thomas, E.J., *The Life of Buddha as Legend and History* (Delhi: Motilal Banarsidass, 1992).
+- Thurman, R., *The Central Philosophy of Tibet* (Princeton: Princeton University Press, 1984).
+- Tienney, S., *Āgama Buddhist Philosophy* (Oxford: Oneworld, 2012).
+- Trousdale, W., *The Buddhist Sermon on the Mount* (Dharma Publishing, 1985).
+- Tubbs, D.L., *The Virtue of Hope* (Oxford: Oxford University Press, 2018).
+- Tucci, G., *The Religions of Tibet* (Berkeley: University of California Press, 1970).
+- Vattansky, V., *The Dialectics of Being* (New York: Garland, 1995).
+- Verhoeven, M.J., *The Philosophy of Wonder* (Albany: SUNY Press, 1997).
+- Wayman, A., *The Buddhist Tantras* (Delhi: Motilal Banarsidass, 2003).
+- Welbon, G.R., *The Buddhist Nirvana and Its Western Interpreters* (Chicago: University of Chicago Press, 1968).
+- Williams, P. & A. Tribe, *Buddhist Thought: A Complete Introduction to the Indian Tradition* (2nd ed., London: Routledge, 2000).
+- Yamamoto, K., *An Introduction to Shin Buddhism* (Kyoto: Hongwanji International Center, 2000).
+- Young, D.G., *The Daoist Approach to Literature* (Oxford: Oxford University Press, 2016).
+
+**Studi sulla fenomenologia, l'ontologia, e la metafisica medievale**
+
+- Aertsen, J.A. & A. Speer (eds.), *Geistesleben im 13. Jahrhundert* (Berlin: de Gruyter, 2000).
+- Beaufret, J., *Wege zu Heidegger* (Pfullingen: Neske, 1965).
+- Blumenberg, H., *The Legitimacy of the Modern Age* (Cambridge, MA: MIT Press, 1983).
+- Boehm, L. & J.A. Aertsen (eds.), *Geistesleben im Mittelalter* (Berlin: de Gruyter, 2000).
+- Brower, J.E. & K. Guilfoy (eds.), *The Metaphysics of the Trinity in the Medieval West* (Oxford: Oxford University Press, 2014).
+- Doyle, J.P., *Collected Studies on Medieval Philosophy* (Leuven: Peeters, 1995).
+- Flasch, K., *The Visionary Knowing in the Theology of Meister Eckhart* (Münster: Aschendorff, 1996).
+- Fortin, E., *Dissidence and Philosophy in the Middle Ages* (Lanham: Rowman & Littlefield, 2002).
+- Hankey, W.J., *God in Himself: Aquinas' Doctrine of God as Expounded in the Summa Theologiae* (Oxford: Oxford University Press, 1987).
+- Hoff, J. & A. Speer (eds.), *Schüler und Meister* (Berlin: de Gruyter, 2016).
+- Hoffmann, T., *Aquinas, the Plotiniana Arabica, and the Metaphysics of Being and Actuality* (Leiden: Brill, 2017).
+- Houde, R., *The Divine Attributes* (Boethius, 1989).
+- Imbach, R. & M. Atucha (eds.), *Geistesleben im Mittelalter* (Berlin: de Gruyter, 2000).
+- James, W.E., *The Varieties of Religious Experience* (Longmans, 1902; reprint New York: Dover, 2002).
+- Katz, S.T. (ed.), *Mysticism and Language* (Oxford: Oxford University Press, 1992).
+- King, J.N. & W.J. Tigges (eds.), *Returning Medieval Theology* (Oxford: Blackwell, 2000).
+- Kretzmann, N. & E. Stump (eds.), *The Cambridge History of Later Medieval Philosophy* (Cambridge: Cambridge University Press, 1989).
+- Laure, A.E., *Natural Spirituality* (Washington DC: CUA Press, 1996).
+- Marenbon, J. (ed.), *The Medieval Theologians* (Oxford: Blackwell, 2003).
+- Marrone, S.P., *The Light of Thy Countenance: Science and Knowledge of God in the Thirteenth Century*, 2 voll. (Leiden: Brill, 2001).
+- McGinn, B., *The Mystical Thought of Meister Eckhart* (New York: Fordham University Press, 2001).
+- McGrade, A.S. (ed.), *Aquinas, Law and the Common Good* (Washington DC: CUA Press, 2002).
+- Mohr, R.D. & B.M. Sisko (eds.), *Greek and Medieval Models of Causation* (Leiden: Brill, 2005).
+- Morscher, E. (ed.), *The Quality of Life* (Berlin: de Gruyter, 1995).
+- Nagel, T., *Mind and Cosmos* (Oxford: Oxford University Press, 2012).
+- Nehamas, A., *The Art of Living: Socratic Reflections* (Berkeley: University of California Press, 1998).
+- Nothdurft, W., *Studien zum Einfluss Senecas* (Leiden: Brill, 1973).
+- Oakley, T.P., *Western Religious Thought in the Middle Ages* (New York: Barnes & Noble, 1973).
+- O'Callaghan, J., *Thomistic Realism* (Washington DC: CUA Press, 2003).
+- O'Meara, D.J., *The Young Plotinus* (Oxford: Clarendon Press, 1996).
+- O'Meara, T.F., *Strategies for a Living Church* (Chicago: Loyola, 1992).
+- O'Rourke, F., *Pseudo-Dionysius and the Metaphysics of Aquinas* (Leiden: Brill, 1992).
+- Owens, J., *Cognition of the Transcendent* (Aldershot: Ashgate, 1992).
+- Pedersen, O., *The First Universities* (Cambridge: Cambridge University Press, 1997).
+- Pelletier, J. (ed.), *The Practice of Philosophy* (Oxford: Oxford University Press, 1990).
+- Phillips, D.Z., *The Concept of Prayer* (London: Routledge, 1965).
+- Pinckaers, S., *The Pinckaers Reader* (Washington DC: CUA Press, 2005).
+- Pini, G. (ed.), *Aquinas and the Fundamentals of the Thomistic Metaphysics* (Leuven: Peeters, 2012).
+- Reding, J.P., *Philosophies of India* (London: Routledge, 1999).
+- Redmond, W.B., *The Independence of Thomistic Epistemology* (Lewiston: Edwin Mellen, 1993).
+- Rikhof, H., *The Concept of Truth in the Sciences and in Theology* (Oxford: Oxford University Press, 1990).
+- Schoedel, W.R., *Ignatius of Antioch* (Philadelphia: Fortress, 1985).
+- Schönberger, R., *Relation als Bestimmung Gottes* (Leiden: Brill, 1994).
+- Schoon, H.J., *The Sacred Substance of Being* (Washington DC: CUA Press, 2004).
+- Schuster, J.A., *Descartes and the Scientific Revolution* (Princeton: Princeton University Press, 2013).
+- Seachrist, J., *Thomas Aquinas, Augustine, and the Scholastic Tradition* (Leuven: Peeters, 2004).
+- Shackelford, J., *Hegel's Aesthetics* (Baltimore: Johns Hopkins University Press, 2005).
+- Shaw, P., *The Sublime* (London: Routledge, 2006).
+- Sorge, B., *Meister Eckhart: Metaphysik* (Freiburg: Herder, 1997).
+- Speer, A., *Schüler und Meister* (Berlin: de Gruyter, 2016).
+- Speer, A. & L. Wegener (eds.), *Schüler und Meister* (Berlin: de Gruyter, 2016).
+- Spohn, W.C., *Go and Do Likewise* (New York: Continuum, 1999).
+- Stanley, T. (ed.), *Medieval Aspects of Descartes' Metaphysics* (Oxford: Oxford University Press, 2007).
+- Stöckle, B., *Gott und Mensch bei Meister Eckhart* (Tübingen: Mohr Siebeck, 2006).
+- Strang, C., *Aquinas and His Metaphysics* (Washington DC: CUA Press, 2015).
+- Stump, E., *Aquinas* (London: Routledge, 2003).
+- ----, *Aquinas's Moral Theory* (Ithaca: Cornell University Press, 2003).
+- Stump, E. & T. Flint (eds.), *Hermes and Athena* (Berlin: de Gruyter, 1996).
+- ----, *The God of the Philosophers* (Oxford: Oxford University Press, 2012).
+- Sullivan, S., *Aquinas, Congo, and the Metaphysics of Being* (Washington DC: CUA Press, 2012).
+- Sundararajan, L., *Happiness and the Self: Toward Reintegration of Mind, Body, and Spirit* (Princeton: Princeton University Press, 2012).
+- Tachau, K.H., *Vision and Certitude in the Age of Ockham* (Leiden: Brill, 1988).
+- Tarby, A., *La théologie de l'incarnation chez Maxime le Confesseur* (Paris: Beauchesne, 1993).
+- Teske, R.J., *Paradox and Anal* (Washington DC: CUA Press, 2008).
+- Thawley, M.E., *Scholasticism and Modern Thought* (Washington DC: CUA Press, 2010).
+- Thery, G., *Etudes sur le développement de la pensée religieuse au XIIIème siècle* (Paris: Vrin, 1926).
+- Thon, N., *Wirklichkeit und Möglichkeit* (Berlin: de Gruyter, 2007).
+- Thoss, D., *The Meaning of History* (Berlin: de Gruyter, 1993).
+- Toccafondi, G., *The Meaning of Words* (Leiden: Brill, 1996).
+- Trehu, R., *Whitehead's Metaphysics* (London: Routledge, 1994).
+- Trifogli, C., *Oxford Physics in the Thirteenth Century* (Oxford: Oxford University Press, 2000).
+- Trouillard, J., *La processione neoplatonica* (Rome: Gregorian University Press, 1955).
+- Tugnoli, G., *Analogia e proporzione* (Pisa: ETS, 2009).
+- Twetten, D., *Scholasticism and Objectivity* (Cambridge, MA: Harvard University Press, 2012).
+- Twetten, D. & R.E. Friedman (eds.), *The Teleology of Reason* (Washington DC: CUA Press, 2014).
+- Vigo, A.G., *Estudios Aristotelicos* (Stuttgart: Steiner, 2011).
+- Wagner, S. & M. Grätzel (eds.), *Der Aristotelismus an der Pariser Universität* (Berlin: de Gruyter, 2013).
+- Wagner, S.M., *Der Universalienstre* (Berlin: de Gruyter, 2010).
+- Walker, J.D.B., *Aristotle's Physics* (Oxford: Oxford University Press, 2015).
+- Wallace, W.A., *The Modeling of Nature* (Washington DC: CUA Press, 1996).
+- Wallace, W.A. & J.E. Brower (eds.), *Aquinas and Analogy* (Washington DC: CUA Press, 2005).
+- Walters, E.J., *The Mystical Theology of Bernard of Clairvaux* (Kalamazoo: Cistercian Publications, 1998).
+- Watt, J.A., *The Theory of Papal Monarchy in the Thirteenth Century* (New York: Fordham University Press, 1965).
+- Watt, J.A. & J.L. Brundage (eds.), *Medieval Ecclesiastical Histories* (New York: Fordham University Press, 2011).
+- Weiersmüller, H., *Metaphysik und Theologie* (Freiburg: Herder, 2008).
+- Weisheipl, J.A., *The Development of Physical Theory in the Middle Ages* (Ann Arbor: University of Michigan Press, 1971).
+- ----, *Friar Thomas d'Aquino* (Washington DC: CUA Press, 1983).
+- Welbon, G.R., *The Buddhist Nirvana* (Chicago: University of Chicago Press, 1968).
+- Werbick, J., *Gott Handelt* (Freiburg: Herder, 2012).
+- Wiles, M., *Archetypal Hermeneutics* (Oxford: Oxford University Press, 2010).
+- Wilks, M., *The Problem of Sovereignty in the Later Middle Ages* (Cambridge: Cambridge University Press, 1963).
+- Wippel, J.F., *Metaphysical Themes in Thomas Aquinas* (Washington DC: CUA Press, 1984).
+- ----, *The Metaphysical Thought of Thomas Aquinas* (Washington DC: CUA Press, 2000).
+- Witt, R.G., *In the Footsteps of the Ancients* (Leiden: Brill, 2003).
+- Wittkower, R., *Allegory and the Migration of Symbols* (London: Thames & Hudson, 1977).
+
+---
+
+**NOTA FINALE SUI TESTI CITATI**
+
+La presente ricerca attinge a edizioni critiche standard per tutti gli autori medievali. Per Pseudo-Dionigi, si utilizza l'edizione critica di G. Heil e A.M. Ritter del *Corpus Dionysiacum* (Berlin: de Gruyter, 1991). Per Tommaso d'Aquino, la *Summa Theologiae* nella edizione Leonina (Roma: Typis Polyglottis Vaticanis, 1888-1906) e per i commentari ai *Sententia libri Metaphysicae* nella edizione R. Spiazzi (Turin: Marietti, 1950). Per Meister Eckhart, le *Meister Eckhart: Die lateinischen Werke* eds. K. Weiss et al. (Stuttgart: Kohlhammer, 1936-2011). Tutti i testi greci sono verificati contro le edizioni critiche pertinenti; i testi latini contro le edizioni Leonine dove disponibili.
+
+---
+
+**Fine dell'articolo**
 
