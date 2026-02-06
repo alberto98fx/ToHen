@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Colloquio con professore, trascritto.md",
+                "file": "AI-Prompt.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Colloquio con professore, trascritto"
+              "title": "AI-Prompt"
             }
           }
         ]
@@ -186,9 +186,10 @@
   },
   "active": "75f753b37236c8a8",
   "lastOpenFiles": [
-    "Dire_l_Indicibile.md.tmp.5469.1770375912089",
-    "Dire_l_Indicibile.md",
     "Colloquio con professore, trascritto.md",
+    "AI-Prompt.md",
+    "Dire_l_Indicibile.md",
+    "Dire_l_Indicibile.md.tmp.5469.1770375912089",
     "Ricerca/Completa.md",
     "Dire_l_Indicibile.md.tmp.5469.1770375842128",
     "Ricerca/PDFs/Kenosis - Wikipedia.pdf",
@@ -209,7 +210,6 @@
     "README.md",
     "Ricerca/Markdown",
     "Ricerca/Versioni",
-    "Ricerca/PDFs",
     "Aristotle.md",
     "Test.md",
     "Welcome.md"
