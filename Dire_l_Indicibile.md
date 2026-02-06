@@ -182,6 +182,8 @@ Questo aspetto è stato messo in luce dallo studio di Eileen Sweeney, *Logic, Th
 
 ## 3. Il XII secolo: Alano di Lilla e il *Liber XXIV philosophorum*
 
+Il XII secolo costituisce il momento in cui le tensioni presenti in Dionigi e in Anselmo — tra l'inadeguatezza del linguaggio e la necessità di continuare a parlare, tra la consapevolezza apofatica e l'esigenza sistematica — trovano una formulazione nuova: non più nel quadro della teologia monastica (dove il discorso su Dio è ancora prevalentemente un discorso di preghiera, meditazione e lectio) né in quello della logica pura (dove il linguaggio è analizzato nelle sue strutture formali), ma nel quadro emergente della teologia come *scientia* — sapere organizzato, trasmissibile, argomentabile, e dunque bisognoso di un apparato predicativo controllato. Alano di Lilla e il *Liber XXIV philosophorum* offrono due risposte complementari a questa esigenza: l'uno attraverso l'assiomatizzazione e la *translatio*, l'altro attraverso la definizione paradossale e la metafora auto-decostruttiva.
+
 ### 3.1. Il contesto: dalla teologia monastica alla scuola
 
 Il XII secolo segna un passaggio cruciale nella storia del linguaggio teologico. La teologia monastica — centrata sull'esegesi della *sacra pagina*, sul linguaggio figurativo e sulla meditazione spirituale — cede progressivamente il posto a una teologia proto-scolastica in cui la logica aristotelica, la grammatica speculativa e il metodo della *quaestio* diventano gli strumenti principali dell'indagine dottrinale. Questo passaggio non è una rottura, ma una trasformazione: il problema dell'inadeguatezza del linguaggio teologico non scompare, ma viene riformulato in termini più tecnici, più espliciti, più "professionali".
@@ -363,9 +365,11 @@ In terzo luogo, la *funzione del linguaggio apofatico* differisce: in Dionigi, i
 
 ## 5. Il quarto momento: verso una grammatica trascendentale dell'ineffabile
 
+Il percorso compiuto nelle sezioni precedenti ha costruito un archivio di strategie linguistiche distribuite su sei tradizioni (sette, se si conta separatamente Agostino come fondazione). La presente sezione intende passare dalla ricognizione alla *teoria*: non più descrivere le strategie, ma spiegare *perché* esse si presentano nella forma in cui si presentano, e *che cosa* la loro convergenza e divergenza ci insegnano sulla natura del rapporto tra linguaggio e incondizionato. La tesi che si difende è duplice: la convergenza strutturale rivela una necessità logica; la divergenza pragmatica rivela una contingenza storica. E la combinazione di necessità logica e contingenza storica è ciò che definisce una "grammatica trascendentale" — un quadro che è universale nella forma e particolare nell'uso.
+
 ### 5.1. La struttura tripartita come necessità logica
 
-Le quattro sezioni precedenti hanno mostrato che tradizioni prive di contatto storico — il neoplatonismo cristiano, l'Advaita Vedānta, il Mādhyamaka — convergono verso una medesima *architettura tripartita* del discorso sull'indicibile: (1) affermazione dei predicati, (2) negazione dei predicati, (3) trascendenza dell'opposizione tra affermazione e negazione. Questa convergenza non può essere spiegata come un prestito culturale, perché le tradizioni si sono sviluppate indipendentemente; e non può essere liquidata come una coincidenza, perché la struttura è troppo precisa e troppo articolata per essere fortuita.
+Le sezioni precedenti hanno mostrato che tradizioni prive di contatto storico — il neoplatonismo cristiano, l'Advaita Vedānta, il Mādhyamaka — convergono verso una medesima *architettura tripartita* del discorso sull'indicibile: (1) affermazione dei predicati, (2) negazione dei predicati, (3) trascendenza dell'opposizione tra affermazione e negazione. Questa convergenza non può essere spiegata come un prestito culturale, perché le tradizioni si sono sviluppate indipendentemente; e non può essere liquidata come una coincidenza, perché la struttura è troppo precisa e troppo articolata per essere fortuita.
 
 L'ipotesi che il presente studio intende difendere è che la struttura tripartita non sia storicamente contingente, ma *logicamente necessaria*: essa emerge ogniqualvolta un linguaggio — un qualsiasi linguaggio — tenta di predicare l'incondizionato. L'argomento è il seguente.
 
