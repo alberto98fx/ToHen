@@ -11,12 +11,14 @@
             "id": "75f753b37236c8a8",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Ricerca/PDFs/Negative Theology and Linguistic Strategies for Speaking the Unspeakable_ Materials for a Scientific Article.pdf"
+                "file": "Dire_l_Indicibile.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Negative Theology and Linguistic Strategies for Speaking the Unspeakable_ Materials for a Scientific Article"
+              "icon": "lucide-file",
+              "title": "Dire_l_Indicibile"
             }
           }
         ]
@@ -184,22 +186,22 @@
   },
   "active": "75f753b37236c8a8",
   "lastOpenFiles": [
+    "Ricerca/PDFs/Kenosis - Wikipedia.pdf",
+    "Ricerca/Markdown/Ricerca Wikipedia Cristologia + Oriente (Buddismo, Induismo).md",
     "Dire_l_Indicibile.md",
+    "Ricerca/PDFs/Negative Theology and Linguistic Strategies for Speaking the Unspeakable_ Materials for a Scientific Article.pdf",
     "Ricerca/Completa.md",
     "Gpt5.2-Pro-Write.md",
     "Prompt.md",
     "Ricerca/Reviews/Gpt5.2-Thinking.md",
     "Ricerca/Versioni/La_Doppia_Kenosi_del_Linguaggio_Teologico.docx.pdf",
     "Ricerca/PDFs/Kenotic Linguistics_ Christological Foundations and Cross-Religious Structural Parallels in Apophaticism.pdf",
-    "Ricerca/PDFs/Negative Theology and Linguistic Strategies for Speaking the Unspeakable_ Materials for a Scientific Article.pdf",
     "Ricerca/Reviews/Gpt5.2-Pro.md",
     "Ricerca/Reviews/Gemini.md",
     "Ricerca/Reviews/Gpt5.2-Agent.md",
     "Ricerca/Reviews/Gemini/Untitled.md",
     "Ricerca/Reviews/Gemini",
     "Ricerca/Reviews",
-    "Ricerca/PDFs/Kenosis - Wikipedia.pdf",
-    "Ricerca/Markdown/Ricerca Wikipedia Cristologia + Oriente (Buddismo, Induismo).md",
     "Ricerca/Untitled.md",
     "README.md",
     "Ricerca/Markdown",
