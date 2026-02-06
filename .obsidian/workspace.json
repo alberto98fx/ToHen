@@ -11,14 +11,12 @@
             "id": "75f753b37236c8a8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Dire_l_Indicibile.md",
-                "mode": "source",
-                "source": false
+                "file": "Ricerca/PDFs/Negative Theology and Linguistic Strategies for Speaking the Unspeakable_ Materials for a Scientific Article.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Dire_l_Indicibile"
+              "icon": "lucide-file-text",
+              "title": "Negative Theology and Linguistic Strategies for Speaking the Unspeakable_ Materials for a Scientific Article"
             }
           }
         ]
@@ -186,8 +184,8 @@
   },
   "active": "75f753b37236c8a8",
   "lastOpenFiles": [
-    "Ricerca/Completa.md",
     "Dire_l_Indicibile.md",
+    "Ricerca/Completa.md",
     "Gpt5.2-Pro-Write.md",
     "Prompt.md",
     "Ricerca/Reviews/Gpt5.2-Thinking.md",
