@@ -376,7 +376,15 @@ Questo paradosso generativo è assente tanto nel buddhismo quanto nell'induismo.
 
 Il presente articolo intende dunque stabilire che la comparazione transculturale delle strutture apofatiche è metodologicamente legittima e intellettualmente fruttuosa al livello formale, ma che tale comparazione diviene **moralmente irresponsabile** nel momento in cui si spinge verso identificazioni sincretistiche o negazioni delle differenze fondamentali. Le tre tradizioni ci insegnano insieme qualcosa di vero sulla inadeguatezza del linguaggio ordinario di fronte al Trascendente. Ma ciò che dicono su quali sia la Trascendente rimane divergente, e tale divergenza non è una imperfezione della ricerca umana, ma l'espressione di visioni radicalmente diverse del Reale.
 
-Il file successivo (File 4) svilupperà ulteriormente il tema del paradosso generativo cristiano e le implicazioni metafisiche e soteriologiche che ne derivano per la teologia contemporanea.
+### 8.1 Verso l'unificazione mediante il "paradosso generativo"
+
+Tuttavia, la conclusione precedente non esaurisce la ricerca. Essa rivela piuttosto l'insufficienza di una mera analisi comparativa che identifichi omologie formali senza un principio unificante. La domanda che sorge è: come integrare questa pluralità di strategie apofatiche? Come costruire un framework che onori le differenze irriducibili pur riconoscendo una struttura comune?
+
+La risposta emerge dal riconoscimento che il cristianesimo possiede uno strumento teorico unico: il **paradosso generativo della kenosi**. Questo paradosso non è una debolezza della formulazione cristiana, né una difficoltà epistemologica da superare. È piuttosto l'apertura strutturale che permette al discorso teologico di simultaneamente affermare e negare, di dire e non-dire, di mantenere una tensione fertile fra il catafatico e l'apofatico senza che questa tensione si risolva in uno dei due poli.
+
+L'analisi comparativa dei tre sistemi apofatici, in altre parole, non è completa finché rimane a livello di confronto reciproco delle differenze. Essa diviene pienamente intelligibile solo quando riconosce che il cristianesimo, mediante la struttura kenotica, fornisce un **principio unificante** in grado di rendere conto tanto delle omologie formali quanto delle irreducibili differenze metafisiche.
+
+Il file successivo (File 4) svilupperà questa intuizione preliminare in una formulazione sistematica del **"paradosso generativo"** — la tesi che la Divinità stessa, nella sua auto-comunicazione trinitaria manifestata in Cristo, genera continuamente la possibilità di una teologia che è simultaneamente affermativa e negativa, che fonda sia la legittimità del discorso positivo su Dio sia la necessaria consapevolezza della sua radicale insufficienza. Questo paradosso generativo non contraddice la doppia kenosi stabilita in File 1 e evidenziata in File 3; piuttosto, la **approfondisce** aggiungendo la dimensione ontologica e trinitaria che sola render pienamente intelligibile come il linguaggio umano possa significare il divino senza pretendere di contenerlo.
 
 ---
 

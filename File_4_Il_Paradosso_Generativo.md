@@ -46,6 +46,34 @@ Il paradosso generativo opera attraverso una struttura articolata su tre livelli
 
 **Terzo livello: Kenosi Pragmatica.** È la trasformazione dell'atto linguistico stesso. Quando diciamo di una creatura "è buona," compiamo un atto di asserzione descrittiva: descriviamo uno stato di cose, enunciamo un fatto. Ma quando diciamo "Dio è buono," non possiamo intendere l'atto nel medesimo modo. Il discorso viene trasformato: non è più una descrizione che descrive, bensì un gesto indicativo che rimanda oltre sé stesso. Dionigi il Mistico lo esprime chiaramente nella Mistica Teologia: il discorso inizia come analisi filosofica ma si trasforma in preghiera, in invocazione, in lode. L'atto non è più affermare una proposizione, ma orientare l'intelletto verso l'ulteriorità del divino. È una kenosi pragmatica: l'atto predicativo entra in una nuova forma.
 
+### 1.3bis CHIARIMENTO CRUCIALE: La Tripla Kenosi NON è Contraddizione della Doppia Kenosi
+
+Prima di procedere all'analisi della omologia strutturale, è essenziale prevenire un possibile malinteso. I tre articoli precedenti (Files 1-3) hanno elaborato e fondato la **doppia kenosi** (semantica + pragmatica) come il meccanismo fondamentale della grammatica dell'ineffabilità medievale. Ora, File 4 introduce la **tripla kenosi** mediante l'aggiunta della dimensione ontologica.
+
+È CRUCIALE chiarire che questa non è una contraddizione o una smentita della doppia kenosi. Al contrario, la tripla kenosi **APPROFONDISCE e COMPLETA** il quadro dei Files precedenti. La kenosi ontologica NON è una terza forma di kenosi accanto alle altre due. È il **FONDAMENTO** che rende possibile, coerente e intelligibile l'intera struttura della doppia kenosi.
+
+In altre parole:
+- **Files 1-3** hanno analizzato come il linguaggio teologico operi mediante la doppia kenosi (semantica + pragmatica), mostrando come i predicati ordinari subiscono una trasformazione nella loro applicazione al divino.
+- **File 4** aggiunge la risposta alla domanda: *Perché* questa trasformazione è possibile? *Su quale fondamento* poggia? La risposta è: sulla kenosi ontologica, sulla struttura stessa dell'Incarnazione.
+
+La "tripla kenosi" è dunque la doppia kenosi PLUS il suo fondamento. Non è una revisione dei Files precedenti, ma il loro completamento logico e ontologico.
+
+Questa struttura può essere rappresentata schematicamente:
+
+```
+KENOSI ONTOLOGICA (il Fondamento)
+    ↓
+    Genera e rende possibile
+    ↓
+DOPPIA KENOSI (Operazione nel linguaggio teologico)
+    ├─ Kenosi Semantica (trasformazione del significato)
+    └─ Kenosi Pragmatica (trasformazione dell'atto)
+    ↓
+PARADOSSO GENERATIVO (l'effetto unificato)
+```
+
+La kenosi ontologica non è un "nuovo livello" che si aggiunge; è la **causa formale** che spiega l'intera struttura. Senza di essa, la doppia kenosi rimarrebbe una tecnica retorica interessante ma epistemologicamente fragile. Con essa, diviene il riflesso linguistico di una realtà teologica fondamentale: il fatto che Dio stesso, nell'evento dell'Incarnazione, ha stabilito il principio mediante il quale il linguaggio umano finito può significare l'infinito divino.
+
 ### 1.4 L'omologia strutturale e il fondamento
 
 Questi tre livelli non sono meramente paralleli. Tra loro sussiste un'*omologia strutturale* profonda. La kenosi ontologica non è semplicemente un evento passato (l'Incarnazione storica); è il fondamento che rende possibile e sostiene tanto la kenosi semantica quanto quella pragmatica. Proprio perché il Logos si è veramente incarnato, proprio perché l'infinito ha veramente abitato il finito senza confusione e senza separazione, il linguaggio umano — il linguaggio della creatura — non è semplicemente inadeguato. È piuttosto *caricato* di una pienezza che eccede la sua capacità categoriale. Le parole umane, nel loro ordine creaturale, sono divenute capaci di portare, sebbene non di contenere, il divino.
