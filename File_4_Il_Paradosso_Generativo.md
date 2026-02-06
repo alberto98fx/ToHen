@@ -256,7 +256,7 @@ Se questa analisi è corretta, la teologia medievale non è un'impresa che tenta
 
 [^6]: Fil 2,6-11. Il testo greco è quello della UBS5 (B. Aland et al., *The Greek New Testament*, 5ª ed., Deutsche Bibelgesellschaft, Stuttgart 2014).
 
-[^7]: Massimo il Confessore, *Ambigua ad Iohannem*, 7 (PG 91, 1077C-1084D). Sul rapporto Logos/logoi, cfr. A. Louth, *Maximus the Confessor*, Routledge, London 1996, pp. 35-42.
+[^7]: Massimo il Confessore, *Ambigua ad Iohannem*, 7 (PG 91, 1077C-1081C). Sul rapporto Logos/logoi, cfr. P. Sherwood, *The Earlier Ambigua of Saint Maximus the Confessor and His Refutation of Origenism*, Studia Anselmiana 36, Orbis Catholicus/Herder, Roma 1955, pp. 155-180; A. Louth, *Maximus the Confessor*, Routledge, London 1996, pp. 35-42.
 
 [^8]: Cfr. Burrell, *Knowing the Unknowable God*, cit., pp. 24-39.
 
@@ -266,7 +266,7 @@ Se questa analisi è corretta, la teologia medievale non è un'impresa che tenta
 
 [^11]: Anselmo di Aosta, *Monologion*, cc. 8-9 (ed. F.S. Schmitt, *S. Anselmi Opera Omnia*, vol. I, Nelson, Edinburgh 1946, pp. 22-26).
 
-[^12]: Alano di Lilla, *Regulae caelestis iuris*, regulae 10-12 (ed. N.M. Häring, in *Archives d'histoire doctrinale et littéraire du Moyen Âge* 48, 1981, pp. 121-126).
+[^12]: Alano di Lilla, *Regulae caelestis iuris*: la *regula* 10 stabilisce il principio della *translatio* dei predicati dal dominio creaturale al divino (ed. N.M. Häring, in *Archives d'histoire doctrinale et littéraire du Moyen Âge* 48, 1981, p. 121); la *regula* 11 specifica le condizioni che governano tale trasferimento, escludendo l'estensione metaforica arbitraria (ibid., p. 123); la *regula* 12 enuncia la preservazione della distinguibilità del termine creaturale insieme alla sua connessione reale con il significato divino (ibid., p. 125).
 
 [^13]: Tommaso d'Aquino, *Summa Theologiae* I, q. 13, a. 3 (ed. Leonina, vol. IV, Typis Polyglottis Vaticanis, Roma 1888, pp. 140-142).
 
