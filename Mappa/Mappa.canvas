@@ -1,1 +1,10 @@
-{}
+{
+	"nodes":[
+		{"id":"ac5d456e5c469d55","x":-387,"y":-154,"width":250,"height":60,"type":"text","text":"Pseudo-Dionigi"},
+		{"id":"034e044e4aad1a5f","x":-120,"y":-303,"width":250,"height":60,"type":"text","text":"Anselmo d'Aosta"},
+		{"id":"3fc4fff048918eda","x":-20,"y":-154,"width":250,"height":60,"type":"text","text":"Alano di Lilla"},
+		{"id":"69c37857cd9a9d95","x":-240,"y":-11,"width":250,"height":60,"type":"text","text":"Meister Eckhart"},
+		{"id":"fb9fab67ac987071","x":-372,"y":91,"width":250,"height":60,"type":"text","text":"Tommaso d'Aquino"}
+	],
+	"edges":[]
+}
