@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ricerca/Versioni/v3/Opus/Opus_Completa_Tommaso.md",
+                "file": "Risorse/T.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Opus_Completa_Tommaso"
+              "title": "T"
             }
           },
           {
@@ -201,11 +201,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cf56eeca81b6c85d",
+  "active": "c2b925b64da468e1",
   "lastOpenFiles": [
+    "Ricerca/Versioni/v3/Opus/Opus_Completa_Tommaso.md",
+    "Risorse/T.md",
     "Risorse",
     "Mappa/Mappa.canvas",
-    "Ricerca/Versioni/v3/Opus/Opus_Completa_Tommaso.md",
     "README.md",
     "Mappa",
     "Backups/v1/File_2_Kenosi_Cristologica.md",
@@ -224,7 +225,6 @@
     "Ricerca/Redatti/Claude/08-03-2026/latest_prompt.txt",
     "Ricerca/Redatti/Claude/08-03-2026/latest.md",
     "Ricerca/Redatti/Claude/08-03-2026/chat_id.txt",
-    "Ricerca/Redatti/Claude/08-03-2026",
     "Ricerca/Prompts/Prompt.md",
     "Ricerca/Prompts/AI-Prompt.md",
     "Ricerca/Misc/Colloquio con professore, trascritto.md",
