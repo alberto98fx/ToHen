@@ -5,4 +5,4 @@
 - Alano di Lilla
 	- Regulae caelestis iuris
 - Tommaso
-	- 
+	- *Summa Theologiae* I
