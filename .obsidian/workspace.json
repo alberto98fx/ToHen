@@ -25,10 +25,14 @@
             "id": "56a2c1ae0eed0c75",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Ricerca/Versioni/v3/Opus/Opus_Completa_Tommaso.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Opus_Completa_Tommaso"
             }
           }
         ],
@@ -198,8 +202,8 @@
   "active": "56a2c1ae0eed0c75",
   "lastOpenFiles": [
     "Risorse/Mancanti.md",
-    "Mappa/Mappa.canvas",
     "Ricerca/Versioni/v3/Opus/Opus_Completa_Tommaso.md",
+    "Mappa/Mappa.canvas",
     "Risorse/Quaderni+di+Noctua+V.pdf",
     "Risorse/dalpraAnselmo.pdf",
     "Risorse/DIONIGI-AEROPAGITA-TUTTE-LE-OPERE-P.-Scazzoso.pdf",
