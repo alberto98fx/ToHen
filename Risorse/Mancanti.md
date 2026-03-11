@@ -2,4 +2,5 @@
 	- De grammatico
 	- Monologion
 	- Proslogion
-- 
+- Alano di Lilla
+	- Regulae caelestis iuris
