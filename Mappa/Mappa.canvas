@@ -1,5 +1,6 @@
 {
 	"nodes":[
+		{"id":"2ae5dd7b6d58a3b1","x":-309,"y":333,"width":250,"height":60,"type":"text","text":""},
 		{"id":"ac5d456e5c469d55","x":-387,"y":-154,"width":250,"height":60,"type":"text","text":"Pseudo-Dionigi"},
 		{"id":"034e044e4aad1a5f","x":-120,"y":-303,"width":250,"height":60,"type":"text","text":"Anselmo d'Aosta"},
 		{"id":"3fc4fff048918eda","x":-20,"y":-154,"width":250,"height":60,"type":"text","text":"Alano di Lilla"},
@@ -7,10 +8,15 @@
 		{"id":"fb9fab67ac987071","x":-372,"y":91,"width":250,"height":60,"type":"text","text":"Tommaso d'Aquino"},
 		{"id":"bdc5fce8f1f60f2b","x":260,"y":-11,"width":250,"height":60,"type":"text","text":"Kenosi del linguaggio"},
 		{"id":"e72c1b38797e19d2","x":135,"y":151,"width":250,"height":60,"type":"text","text":"Kenosi Semantica"},
-		{"id":"c1d063184ca1bc8d","x":420,"y":151,"width":250,"height":60,"type":"text","text":"Kenosi Pragmatica"}
+		{"id":"c1d063184ca1bc8d","x":420,"y":151,"width":250,"height":60,"type":"text","text":"Kenosi Pragmatica"},
+		{"id":"acb2ab0d17d3fa34","x":360,"y":-154,"width":250,"height":60,"type":"text","text":"Kenosi Cristologica"},
+		{"id":"22849410daaf60bf","x":360,"y":-303,"width":250,"height":60,"type":"text","text":"Filippinesi 2.7"},
+		{"id":"ccedd822a7f99df9","x":-291,"y":247,"width":250,"height":60,"type":"text","text":"Oriente"}
 	],
 	"edges":[
 		{"id":"b70f65577d666480","fromNode":"bdc5fce8f1f60f2b","fromSide":"bottom","toNode":"e72c1b38797e19d2","toSide":"top"},
-		{"id":"35006d2be22198dc","fromNode":"bdc5fce8f1f60f2b","fromSide":"bottom","toNode":"c1d063184ca1bc8d","toSide":"top"}
+		{"id":"35006d2be22198dc","fromNode":"bdc5fce8f1f60f2b","fromSide":"bottom","toNode":"c1d063184ca1bc8d","toSide":"top"},
+		{"id":"0d9c11f1f6a9d702","fromNode":"bdc5fce8f1f60f2b","fromSide":"top","toNode":"acb2ab0d17d3fa34","toSide":"bottom","fromEnd":"arrow"},
+		{"id":"cc13c3b0cffa79c8","fromNode":"22849410daaf60bf","fromSide":"bottom","toNode":"acb2ab0d17d3fa34","toSide":"top","fromEnd":"arrow"}
 	]
 }
