@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ricerca/Versioni/v3/Opus/Opus_Completa_Tommaso.md",
+                "file": "Risorse/Mancanti.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Opus_Completa_Tommaso"
+              "title": "Mancanti"
             }
           },
           {
@@ -203,11 +203,12 @@
   },
   "active": "96ceb6c85a523554",
   "lastOpenFiles": [
+    "Ricerca/Versioni/v3/Opus/Opus_Completa_Tommaso.md",
+    "Risorse/Mancanti.md",
     "Risorse/Quaderni+di+Noctua+V.pdf",
     "Risorse/dalpraAnselmo.pdf",
     "Risorse/DIONIGI-AEROPAGITA-TUTTE-LE-OPERE-P.-Scazzoso.pdf",
     "Mappa/Mappa.canvas",
-    "Ricerca/Versioni/v3/Opus/Opus_Completa_Tommaso.md",
     "Risorse/Sfera_infinita_e_sfera_intellegibile_imm.pdf",
     "Risorse/T.md",
     "Risorse",
@@ -224,7 +225,6 @@
     "Ricerca/Versioni/v2/README.md",
     "Ricerca/Versioni/v2",
     "Ricerca/Versioni/v1/README.md",
-    "Ricerca/Versioni/v1/La_Doppia_Kenosi_del_Linguaggio_Teologico.docx.pdf",
     "Ricerca/Redatti/Claude/08-03-2026/latest.md",
     "Ricerca/Prompts/Prompt.md",
     "Ricerca/Prompts/AI-Prompt.md",
