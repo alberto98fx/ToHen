@@ -4,3 +4,5 @@
 	- Proslogion
 - Alano di Lilla
 	- Regulae caelestis iuris
+- Tommaso
+	- 
