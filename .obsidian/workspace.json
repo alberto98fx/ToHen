@@ -22,23 +22,17 @@
             }
           },
           {
-            "id": "390d696bb1fa0b94",
+            "id": "56a2c1ae0eed0c75",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Mappa/Mappa.canvas",
-                "viewState": {
-                  "x": 65,
-                  "y": 298.5,
-                  "zoom": -0.8404938967798606
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Mappa"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -201,14 +195,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "96ceb6c85a523554",
+  "active": "56a2c1ae0eed0c75",
   "lastOpenFiles": [
-    "Ricerca/Versioni/v3/Opus/Opus_Completa_Tommaso.md",
     "Risorse/Mancanti.md",
+    "Mappa/Mappa.canvas",
+    "Ricerca/Versioni/v3/Opus/Opus_Completa_Tommaso.md",
     "Risorse/Quaderni+di+Noctua+V.pdf",
     "Risorse/dalpraAnselmo.pdf",
     "Risorse/DIONIGI-AEROPAGITA-TUTTE-LE-OPERE-P.-Scazzoso.pdf",
-    "Mappa/Mappa.canvas",
     "Risorse/Sfera_infinita_e_sfera_intellegibile_imm.pdf",
     "Risorse/T.md",
     "Risorse",
@@ -238,7 +232,6 @@
     "Ricerca/Intermedi/Dire_l_Indicibile.md",
     "Ricerca/Capitolo_Tommaso/Claude_deep_research.md",
     "File_4_Il_Paradosso_Generativo.md",
-    "File_3_Comparazione_Transculturale.md",
-    "Backups/v3/File_4_Il_Paradosso_Generativo.md"
+    "File_3_Comparazione_Transculturale.md"
   ]
 }
