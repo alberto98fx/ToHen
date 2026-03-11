@@ -11,14 +11,12 @@
             "id": "c2b925b64da468e1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Risorse/T.md",
-                "mode": "source",
-                "source": false
+                "file": "Risorse/Sfera_infinita_e_sfera_intellegibile_imm.pdf"
               },
-              "icon": "lucide-file",
-              "title": "T"
+              "icon": "lucide-file-text",
+              "title": "Sfera_infinita_e_sfera_intellegibile_imm"
             }
           },
           {
@@ -29,8 +27,8 @@
               "state": {
                 "file": "Mappa/Mappa.canvas",
                 "viewState": {
-                  "x": 583.1100000000005,
-                  "y": 334.8000000000005,
+                  "x": -209.24999999999946,
+                  "y": 1119.7199999999996,
                   "zoom": 0
                 }
               },
@@ -38,7 +36,8 @@
               "title": "Mappa"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -201,8 +200,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c2b925b64da468e1",
+  "active": "96ceb6c85a523554",
   "lastOpenFiles": [
+    "Risorse/Sfera_infinita_e_sfera_intellegibile_imm.pdf",
     "Ricerca/Versioni/v3/Opus/Opus_Completa_Tommaso.md",
     "Risorse/T.md",
     "Risorse",
@@ -224,7 +224,6 @@
     "Ricerca/Versioni/v1",
     "Ricerca/Redatti/Claude/08-03-2026/latest_prompt.txt",
     "Ricerca/Redatti/Claude/08-03-2026/latest.md",
-    "Ricerca/Redatti/Claude/08-03-2026/chat_id.txt",
     "Ricerca/Prompts/Prompt.md",
     "Ricerca/Prompts/AI-Prompt.md",
     "Ricerca/Misc/Colloquio con professore, trascritto.md",
@@ -238,7 +237,6 @@
     "Ricerca/Capitolo_Tommaso/Claude_deep_research.md",
     "File_4_Il_Paradosso_Generativo.md",
     "File_3_Comparazione_Transculturale.md",
-    "Backups/v3/File_4_Il_Paradosso_Generativo.md",
-    "Gpt5.2-Pro-Write.md"
+    "Backups/v3/File_4_Il_Paradosso_Generativo.md"
   ]
 }
