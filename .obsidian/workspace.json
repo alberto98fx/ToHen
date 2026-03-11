@@ -8,36 +8,37 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c2b925b64da468e1",
+            "id": "96ceb6c85a523554",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Risorse/Sfera_infinita_e_sfera_intellegibile_imm.pdf"
+                "file": "Ricerca/Versioni/v3/Opus/Opus_Completa_Tommaso.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Sfera_infinita_e_sfera_intellegibile_imm"
+              "icon": "lucide-file",
+              "title": "Opus_Completa_Tommaso"
             }
           },
           {
-            "id": "96ceb6c85a523554",
+            "id": "390d696bb1fa0b94",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "Mappa/Mappa.canvas",
                 "viewState": {
-                  "x": -209.24999999999946,
-                  "y": 1119.7199999999996,
-                  "zoom": 0
+                  "x": 65,
+                  "y": 298.5,
+                  "zoom": -0.8404938967798606
                 }
               },
               "icon": "lucide-layout-dashboard",
               "title": "Mappa"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -202,11 +203,11 @@
   },
   "active": "96ceb6c85a523554",
   "lastOpenFiles": [
-    "Risorse/Sfera_infinita_e_sfera_intellegibile_imm.pdf",
+    "Mappa/Mappa.canvas",
     "Ricerca/Versioni/v3/Opus/Opus_Completa_Tommaso.md",
+    "Risorse/Sfera_infinita_e_sfera_intellegibile_imm.pdf",
     "Risorse/T.md",
     "Risorse",
-    "Mappa/Mappa.canvas",
     "README.md",
     "Mappa",
     "Backups/v1/File_2_Kenosi_Cristologica.md",
