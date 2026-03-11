@@ -38,8 +38,7 @@
               "title": "Mappa"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -202,10 +201,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "96ceb6c85a523554",
+  "active": "c2b925b64da468e1",
   "lastOpenFiles": [
-    "Ricerca/Versioni/v3/Opus/Opus_Completa_Tommaso.md",
     "Mappa/Mappa.canvas",
+    "Ricerca/Versioni/v3/Opus/Opus_Completa_Tommaso.md",
     "README.md",
     "Mappa",
     "Backups/v1/File_2_Kenosi_Cristologica.md",
