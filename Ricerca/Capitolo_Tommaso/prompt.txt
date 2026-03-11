@@ -1,0 +1,188 @@
+Agisci come un ricercatore accademico specializzato in filosofia medievale, teologia filosofica e storia del linguaggio teologico. Devi condurre una ricerca rigorosa, orientata a standard di pubblicazione per rivista ANVUR di fascia alta, con l’obiettivo di integrare Tommaso d’Aquino in un articolo già quasi completo sulla “doppia kenosi” del linguaggio teologico.
+
+CONTESTO DEL SAGGIO
+
+Il saggio ha già una struttura storica deliberata a quattro snodi testuali:
+1. Pseudo-Dionigi Areopagita
+2. Anselmo d’Aosta
+3. Alano di Lilla e Liber viginti quattuor philosophorum
+4. Meister Eckhart
+
+Dopo questi quattro snodi, il saggio sviluppa una sezione sistematica sulla “doppia kenosi” del linguaggio teologico:
+- kenosi semantica = i predicati si svuotano del loro contenuto creaturale determinato pur mantenendo l’orientamento referenziale verso Dio;
+- kenosi pragmatica = l’atto del predicare si trasforma da asserzione descrittiva in gesto indicativo, regolato dall’inadeguazione costitutiva del linguaggio rispetto al referente divino.
+
+Il saggio usa già due elementi che richiedono una messa in sicurezza teorica:
+- il passaggio dall’“oltre-essere” neoplatonico all’“essere divino” come ipsum esse subsistens;
+- l’idea che la kenosi semantica corrisponda a ciò che la tradizione scolastica chiamerà analogia.
+
+OBIETTIVO DELLA RICERCA
+
+Verificare se e come Tommaso d’Aquino possa essere integrato NON come quinto grande caso-studio storico, ma come cerniera sistematica capace di dare armatura concettuale alla sezione sulla kenosi semantica, specialmente nella sezione 5.1 del saggio.
+
+Devi stabilire se Tommaso:
+- rafforza davvero la tesi della “doppia kenosi”;
+- chiarisce tecnicamente il funzionamento dei nomi divini;
+- stabilizza il ricorso ad analogia e ipsum esse subsistens;
+- impone anche una revisione o attenuazione di alcune formulazioni troppo forti del saggio.
+
+DOMANDE DI RICERCA
+
+1. In che senso la dottrina tomista dei nomi divini in Summa Theologiae I, q. 13, aa. 1-6 può essere letta come formalizzazione scolastica di ciò che il saggio chiama “kenosi semantica”?
+2. La distinzione tra res significata e modus significandi è davvero pertinente per descrivere uno “svuotamento del contenuto determinato” con preservazione dell’orientamento referenziale?
+3. Come si collega questa teoria dei nomi divini al concetto di analogia, evitando semplificazioni grossolane o scorciatoie manualistiche sulla cosiddetta analogia entis?
+4. In che rapporto stanno, in Tommaso, causalità, eminenza e rimozione rispetto alla predicazione teologica?
+5. In che misura Tommaso aiuta a chiarire il passaggio dall’oltre-essere neoplatonico al Dio come ipsum esse subsistens?
+6. L’integrazione di Tommaso rafforza davvero la tesi della “doppia kenosi”, oppure ne corregge o limita alcune formulazioni troppo forti?
+7. Quali rischi ermeneutici bisogna evitare nel leggere Tommaso in chiave “kenotica”? Indicare con precisione se la categoria di “kenosi semantica” sia una legittima esplicitazione teorica oppure una sovrainterpretazione.
+8. Se dall’analisi emerge che Tommaso è rilevante anche per la sezione sulla fondazione cristologica del linguaggio teologico, segnalalo con precisione, ma senza spostare il baricentro della ricerca fuori dal problema dei nomi divini e dell’analogia.
+
+VINCOLI METODOLOGICI
+
+- NON riscrivere l’architettura dell’articolo come se Tommaso dovesse diventarne il centro.
+- NON trasformare Tommaso in un quinto snodo testuale autonomo, salvo che emerga una ragione davvero decisiva e argomentata.
+- Privilegia l’ipotesi che Tommaso serva come integrazione della sezione sistematica 5.1.
+- Distingui sempre tra:
+  a) ciò che Tommaso dice esplicitamente;
+  b) ciò che può essere inferito in modo rigoroso;
+  c) ciò che costituirebbe una proiezione indebita di categorie contemporanee sul testo medievale.
+- Evita formulazioni vaghe, assertive o apologetiche.
+- Segnala chiaramente eventuali controversie interpretative.
+- Non inventare bibliografia, riferimenti o citazioni.
+- Se una tesi è incerta o discussa, dichiaralo apertamente.
+- Quando usi il lessico della “kenosi semantica”, chiarisci sempre che si tratta di una categoria interpretativa contemporanea da verificare sui testi, non di un termine tomista.
+
+FONTI PRIMARIE DA ESAMINARE PRIORITARIAMENTE
+
+Esamina prioritariamente i seguenti testi di Tommaso d’Aquino:
+
+1. Summa Theologiae I, q. 13, aa. 1-6
+   - nucleo principale sulla predicazione dei nomi divini, sulla significazione dei nomi, sull’analogia e sull’inadeguazione del modus significandi.
+
+2. Summa Theologiae I, q. 12
+   - per il quadro della conoscibilità di Dio e dei limiti della conoscenza creata.
+
+3. Summa Theologiae I, q. 3
+   - per la semplicità divina e il rapporto con i nomi divini.
+
+4. Super Boetium De Trinitate, q. 1, a. 2
+   - testo particolarmente importante per la struttura unitaria delle tre vie: causalità, rimozione, eminenza.
+
+5. Summa contra Gentiles I, capitoli pertinenti ai nomi divini e alla conoscenza di Dio
+   - usa questo testo solo se realmente utile a consolidare il quadro.
+
+6. De potentia, q. 7
+   - se utile per i nomi divini, l’analogia e la predicazione teologica.
+
+7. Eventuali passi rilevanti su ipsum esse subsistens
+   - solo se davvero pertinenti all’argomento e non introdotti in modo ornamentale.
+
+Se emergono connessioni rilevanti con la fondazione cristologica del linguaggio teologico, puoi segnalare in modo secondario anche eventuali riferimenti utili alla cristologia tomista, ma solo come possibile sviluppo complementare e non come asse principale della ricerca.
+
+LETTERATURA SECONDARIA DA PRIVILEGIARE
+
+Privilegia, se disponibili e pertinenti, studi accademici di alto livello sui seguenti temi:
+- nomi divini in Tommaso;
+- analogia in Tommaso;
+- distinzione tra res significata e modus significandi;
+- ipsum esse subsistens;
+- rapporto tra Dionigi e Tommaso;
+- teologia negativa e predicazione teologica in Tommaso.
+
+Se disponibili, usa con particolare attenzione autori e studi come:
+- Gregory P. Rocca, Speaking the Incomprehensible God
+- Rudi A. te Velde, Aquinas on God
+- Fran O’Rourke, Pseudo-Dionysius and the Metaphysics of Aquinas
+
+Puoi utilizzare anche altra bibliografia specialistica autorevole, ma solo se reale, verificabile e realmente pertinente.
+
+DELIVERABLES RICHIESTI
+
+Fornisci il risultato in 6 parti, in questo ordine:
+
+1. VERDETTO INIZIALE
+Fornisci una risposta netta e argomentata tra le seguenti:
+- “Tommaso va integrato”
+- “Tommaso va integrato solo in forma limitata”
+- “Tommaso non va integrato”
+
+Motiva il verdetto in 8-15 righe, con chiarezza accademica e senza genericità.
+
+2. MAPPA TESTUALE DELLE FONTI
+Elenca i passi primari più rilevanti di Tommaso con:
+- riferimento preciso;
+- breve sintesi del contenuto;
+- indicazione del loro valore specifico per il saggio;
+- eventuale citazione latina breve, solo se davvero utile e rigorosamente corretta.
+
+3. ANALISI CONCETTUALE
+Spiega in modo preciso e sorvegliato se la nozione di “kenosi semantica” possa essere messa in relazione con:
+- analogia;
+- res significata / modus significandi;
+- nomi divini;
+- causalità, eminenza, rimozione;
+- ipsum esse subsistens.
+
+Devi chiarire con precisione:
+- che cosa regge davvero sul piano testuale;
+- che cosa è un’inferenza rigorosa ma non esplicita;
+- che cosa sarebbe una sovrainterpretazione.
+
+4. PROPOSTA DI INSERIMENTO NEL SAGGIO
+Indica il punto migliore in cui inserire Tommaso:
+- preferibilmente come sottosezione della sezione 5.1;
+- in alternativa come breve ponte tra la sezione storica e quella sistematica, ma solo se strettamente necessario.
+
+Spiega:
+- perché quel punto è il migliore;
+- che cosa aggiunge;
+- che cosa evita di sbilanciare;
+- se l’inserimento richiede modifiche anche ad altre sezioni del saggio.
+
+5. TESTO PRONTO PER L’ARTICOLO
+Scrivi una sottosezione accademica in italiano, in prosa continua, stilisticamente omogenea a un saggio di filosofia medievale destinato a rivista di fascia alta, lunga circa 900-1400 parole.
+
+Titolo suggerito:
+“Tommaso d’Aquino: analogia, nomi divini e kenosi semantica”
+ma puoi migliorarne il titolo se necessario.
+
+Questa sottosezione deve:
+- essere leggibile direttamente come testo da inserire;
+- non sembrare una bozza o uno schema;
+- non essere manualistica;
+- non essere divulgativa;
+- integrarsi organicamente con il lessico e il livello teorico del saggio;
+- mostrare perché Tommaso stabilizza teoricamente la tesi senza diventarne il centro assoluto;
+- includere riferimenti precisi ai testi tomisti usati;
+- non inventare citazioni;
+- non usare latino se non quando strettamente necessario e in forma corretta;
+- mantenere un tono alto ma controllato;
+- evitare ridondanze e overclaim.
+
+6. RISCHI E REVISIONI
+Indica:
+- le 5 obiezioni più probabili che un referee potrebbe muovere;
+- come rispondervi;
+- quali formulazioni del saggio andrebbero attenuate, precisate o rinforzate dopo l’integrazione di Tommaso.
+
+Concludi con una raccomandazione editoriale finale scegliendo tra:
+- integrazione minima;
+- integrazione media;
+- integrazione ampia.
+
+ISTRUZIONI STILISTICHE E DI QUALITÀ
+
+- Scrivi in italiano accademico, preciso e sorvegliato.
+- Nessun tono divulgativo.
+- Nessuna enfasi artificiale.
+- Nessuna genericità.
+- Nessuna bibliografia inventata.
+- Nessuna citazione inventata.
+- Nessun riferimento dato per certo se non è verificato.
+- Quando una formulazione è solo probabile o discussa, dichiaralo esplicitamente.
+- Mantieni sempre il controllo filologico e concettuale.
+- Non produrre panoramiche generiche su Tommaso: resta focalizzato sul problema dei nomi divini, dell’analogia e della predicazione teologica in rapporto alla “doppia kenosi”.
+
+OBIETTIVO FINALE
+
+Lo scopo non è produrre una panoramica generale su Tommaso d’Aquino, ma verificare se la tesi della “doppia kenosi” sia abbastanza forte da assorbirlo senza perdere il proprio impianto, e se Tommaso possa fungere da anello teorico mancante tra analogia, nomi divini e ipsum esse subsistens, rafforzando la sezione sistematica del saggio senza comprometterne l’originalità architettonica.
