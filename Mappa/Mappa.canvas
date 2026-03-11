@@ -4,7 +4,13 @@
 		{"id":"034e044e4aad1a5f","x":-120,"y":-303,"width":250,"height":60,"type":"text","text":"Anselmo d'Aosta"},
 		{"id":"3fc4fff048918eda","x":-20,"y":-154,"width":250,"height":60,"type":"text","text":"Alano di Lilla"},
 		{"id":"69c37857cd9a9d95","x":-240,"y":-11,"width":250,"height":60,"type":"text","text":"Meister Eckhart"},
-		{"id":"fb9fab67ac987071","x":-372,"y":91,"width":250,"height":60,"type":"text","text":"Tommaso d'Aquino"}
+		{"id":"fb9fab67ac987071","x":-372,"y":91,"width":250,"height":60,"type":"text","text":"Tommaso d'Aquino"},
+		{"id":"bdc5fce8f1f60f2b","x":260,"y":-11,"width":250,"height":60,"type":"text","text":"Kenosi del linguaggio"},
+		{"id":"e72c1b38797e19d2","x":135,"y":151,"width":250,"height":60,"type":"text","text":"Kenosi Semantica"},
+		{"id":"c1d063184ca1bc8d","x":420,"y":151,"width":250,"height":60,"type":"text","text":"Kenosi Pragmatica"}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"b70f65577d666480","fromNode":"bdc5fce8f1f60f2b","fromSide":"bottom","toNode":"e72c1b38797e19d2","toSide":"top"},
+		{"id":"35006d2be22198dc","fromNode":"bdc5fce8f1f60f2b","fromSide":"bottom","toNode":"c1d063184ca1bc8d","toSide":"top"}
+	]
 }
