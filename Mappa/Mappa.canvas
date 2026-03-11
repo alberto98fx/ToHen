@@ -14,7 +14,8 @@
 		{"id":"c1d063184ca1bc8d","x":560,"y":151,"width":250,"height":60,"type":"text","text":"Kenosi Pragmatica"},
 		{"id":"e72c1b38797e19d2","x":230,"y":151,"width":250,"height":60,"type":"text","text":"Kenosi Semantica"},
 		{"id":"cb51f7b2ddbf3d43","x":230,"y":303,"width":250,"height":60,"type":"text","text":"Si svuota di contenuti"},
-		{"id":"5bc1986726f44241","x":560,"y":303,"width":250,"height":60,"type":"text","text":""}
+		{"id":"5bc1986726f44241","x":560,"y":303,"width":250,"height":60,"type":"text","text":"Predicare da descrittiva ad indicativa"},
+		{"id":"8f33ed30875b75cf","x":560,"y":420,"width":250,"height":68,"type":"text","text":"Non indicano Dio ma indicano direzione in cui eccede"}
 	],
 	"edges":[
 		{"id":"b70f65577d666480","fromNode":"bdc5fce8f1f60f2b","fromSide":"bottom","toNode":"e72c1b38797e19d2","toSide":"top"},
@@ -23,6 +24,7 @@
 		{"id":"cc13c3b0cffa79c8","fromNode":"22849410daaf60bf","fromSide":"bottom","toNode":"acb2ab0d17d3fa34","toSide":"top","fromEnd":"arrow"},
 		{"id":"d74e6e8a105ce576","fromNode":"ccedd822a7f99df9","fromSide":"bottom","toNode":"2ae5dd7b6d58a3b1","toSide":"top"},
 		{"id":"f2e87922fd2e8a51","fromNode":"ccedd822a7f99df9","fromSide":"bottom","toNode":"91a9af838f2434c7","toSide":"top"},
-		{"id":"2b8db19cfe9bad5f","fromNode":"e72c1b38797e19d2","fromSide":"bottom","toNode":"cb51f7b2ddbf3d43","toSide":"top"}
+		{"id":"2b8db19cfe9bad5f","fromNode":"e72c1b38797e19d2","fromSide":"bottom","toNode":"cb51f7b2ddbf3d43","toSide":"top"},
+		{"id":"d90f25b1a18a2f8c","fromNode":"c1d063184ca1bc8d","fromSide":"bottom","toNode":"5bc1986726f44241","toSide":"top"}
 	]
 }
