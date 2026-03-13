@@ -14,7 +14,7 @@ Il presente studio indaga le strategie linguistiche elaborate dalla tradizione t
 
 ## Introduzione: il problema e la tesi
 
-La tradizione [^1]teologica occidentale si trova di fronte a una tensione strutturale che attraversa l'intero arco del suo sviluppo: come parlare di Dio? La domanda non è retorica. Da un lato, Dio è concepito come principio — causa, fonte, fondamento di tutto ciò che è. In quanto tale, deve poter essere in qualche modo nominato, predicato, conosciuto: una causa assolutamente inconoscibile sarebbe indistinguibile dal nulla. Dall'altro lato, Dio è affermato come radicalmente trascendente — oltre l'essere, oltre il pensiero, oltre il linguaggio stesso. In quanto tale, ogni predicazione sembra destinata al fallimento: ogni nome lo limita, ogni concetto lo tradisce.
+La tradizione teologica occidentale si trova di fronte a una tensione strutturale che attraversa l'intero arco del suo sviluppo: come parlare di Dio? La domanda non è retorica. Da un lato, Dio è concepito come principio — causa, fonte, fondamento di tutto ciò che è. In quanto tale, deve poter essere in qualche modo nominato, predicato, conosciuto: una causa assolutamente inconoscibile sarebbe indistinguibile dal nulla. Dall'altro lato, Dio è affermato come radicalmente trascendente — oltre l'essere, oltre il pensiero, oltre il linguaggio stesso. In quanto tale, ogni predicazione sembra destinata al fallimento: ogni nome lo limita, ogni concetto lo tradisce.
 
 La risposta elaborata dalla tradizione non fu il silenzio, ma — paradossalmente — una proliferazione di discorsi sull'indicibile. Si sviluppò quella che potremmo chiamare una vera e propria *grammatica dell'ineffabilità*, articolata su tre strategie interconnesse: la *via negativa* o apofatica, che procede per negazione sistematica dei predicati; la *via paradossale* o della negazione della negazione, che supera l'opposizione stessa tra affermazione e negazione; il *doppio registro predicativo*, che distingue tra uso ordinario e uso teologico del linguaggio, tra significato proprio e significato «trascendente» o «supereminente».
 
@@ -633,4 +633,4 @@ Cobb, J.B. Jr. - Ives, C. (eds.), _The Emptying God: A Buddhist-Jewish-Christian
 - «The Thomist» (Dominican Fathers)
 - «Vigiliae Christianae» (Brill)
 
-[^1]: Test
+[^1]: Tes
