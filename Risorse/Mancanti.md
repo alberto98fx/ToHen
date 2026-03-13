@@ -1,0 +1,8 @@
+- Anselmo 
+	- De grammatico
+	- Monologion
+	- Proslogion
+- Alano di Lilla
+	- Regulae caelestis iuris
+- Tommaso
+	- *Summa Theologiae* I
