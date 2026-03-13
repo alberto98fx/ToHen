@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Risorse/Mancanti.md",
+                "file": "Ricerca/Versioni/v3/Opus/Opus_Completa_Tommaso.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mancanti"
+              "title": "Opus_Completa_Tommaso"
             }
           },
           {
@@ -41,16 +41,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ricerca/Versioni/v3/Opus/Opus_Completa_Tommaso.md",
+                "file": "Work/Re-Work Alberto.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Opus_Completa_Tommaso"
+              "title": "Re-Work Alberto"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -213,16 +212,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cf56eeca81b6c85d",
+  "active": "96ceb6c85a523554",
   "lastOpenFiles": [
-    "Untitled",
+    "Work/Re-Work Alberto.md",
+    "Ricerca/Versioni/v3/Opus/Opus_Completa_Tommaso.md",
     "FONTI.md",
+    "Work/# LA DOPPIA KENOSI DEL LINGUAGGIO TEOLOGICO.md",
+    "Work",
     "Risorse/dosulliv,+06+TC11-1-2+Sassi+130-171.pdf",
     "Risorse/dokumen.pub_tra-esegesi-e-teologia-studi-sul-neoplatonismo.pdf",
     "Risorse/Opere filosofiche (Biblioteca filosofica Laterza) (Italian -- Anselmo d'Aosta (sant'), S_ Vanni Rovighi (editor) -- Biblioteca filosofica Laterza, 1_ -- 9788842087847 -- ef9bff7dea0f4d5cbaa20ce6ee4f8533 -- Anna’s Archive.pdf",
     "Risorse/2021-33-Estasi-e-Visione-Mainoldi.pdf",
     "Risorse/Mancanti.md",
-    "Ricerca/Versioni/v3/Opus/Opus_Completa_Tommaso.md",
     "Risorse/tesi_di_dottorato_F_Piemonte.pdf",
     "Mappa/Mappa.canvas",
     "Risorse/Quaderni+di+Noctua+V.pdf",
@@ -230,7 +231,6 @@
     "Risorse/DIONIGI-AEROPAGITA-TUTTE-LE-OPERE-P.-Scazzoso.pdf",
     "Risorse/Sfera_infinita_e_sfera_intellegibile_imm.pdf",
     "Risorse/T.md",
-    "Risorse",
     "README.md",
     "Backups/v1/File_2_Kenosi_Cristologica.md",
     "Apparato_Critico_Filologico.md",
@@ -250,7 +250,6 @@
     "Ricerca/Intermedi/File_2_Kenosi_Cristologica.md",
     "Ricerca/Intermedi/File_1_Grammatica_Ineffabilita.md",
     "Ricerca/Intermedi/Dire_l_Indicibile.md",
-    "Ricerca/Capitolo_Tommaso/Claude_deep_research.md",
-    "File_4_Il_Paradosso_Generativo.md"
+    "Ricerca/Capitolo_Tommaso/Claude_deep_research.md"
   ]
 }
