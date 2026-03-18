@@ -16,7 +16,7 @@
 		{"id":"cb51f7b2ddbf3d43","x":230,"y":303,"width":250,"height":60,"type":"text","text":"Si svuota di contenuti"},
 		{"id":"5bc1986726f44241","x":560,"y":303,"width":250,"height":60,"type":"text","text":"Predicare da descrittiva ad indicativa"},
 		{"id":"8f33ed30875b75cf","x":560,"y":420,"width":250,"height":68,"type":"text","text":"Non indicano Dio ma indicano direzione in cui eccede"},
-		{"id":"60c7195b72223d81","x":-680,"y":500,"width":400,"height":400,"type":"file","file":"Risorse/Sfera_infinita_e_sfera_intellegibile_imm.pdf"}
+		{"id":"60c7195b72223d81","x":-680,"y":500,"width":400,"height":400,"type":"file","file":"Doppia Kenosi/Risorse/Sfera_infinita_e_sfera_intellegibile_imm.pdf"}
 	],
 	"edges":[
 		{"id":"b70f65577d666480","fromNode":"bdc5fce8f1f60f2b","fromSide":"bottom","toNode":"e72c1b38797e19d2","toSide":"top"},
