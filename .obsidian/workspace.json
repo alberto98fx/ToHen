@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "18-03-2026.md",
+                "file": "Note personali/18-03-2026.md",
                 "mode": "source",
                 "source": false
               },
@@ -199,10 +199,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "747d25523d7492d9",
+  "active": "cf56eeca81b6c85d",
   "lastOpenFiles": [
+    "Note personali",
     "README.md",
-    "18-03-2026.md",
+    "Note personali/18-03-2026.md",
     "Doppia Kenosi/FONTI.md",
     "Doppia Kenosi/Work/Re-Work Alberto.md",
     "Doppia Kenosi",
@@ -236,7 +237,6 @@
     "Doppia Kenosi/Ricerca/Intermedi/File_4_Il_Paradosso_Generativo.md",
     "Doppia Kenosi/Ricerca/Intermedi/File_3_Comparazione_Transculturale.md",
     "Doppia Kenosi/Ricerca/Intermedi/File_2_Kenosi_Cristologica.md",
-    "Doppia Kenosi/Ricerca/Intermedi/File_1_Grammatica_Ineffabilita.md",
-    "Doppia Kenosi/Ricerca/Intermedi/Dire_l_Indicibile.md"
+    "Doppia Kenosi/Ricerca/Intermedi/File_1_Grammatica_Ineffabilita.md"
   ]
 }
