@@ -4,35 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "0c99322566935831",
+        "id": "65aa0c07bff2b427",
         "type": "tabs",
         "children": [
           {
-            "id": "96ceb6c85a523554",
+            "id": "c65c9f9ac2ac09c6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Doppia Kenosi/Work/Google Docs.md",
+                "file": "Doppia Kenosi/Work/Re-Work Alberto.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Google Docs"
-            }
-          },
-          {
-            "id": "747d25523d7492d9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Note personali/18-03-2026.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "18-03-2026"
+              "title": "Re-Work Alberto"
             }
           }
         ]
@@ -198,15 +184,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "96ceb6c85a523554",
+  "active": "c65c9f9ac2ac09c6",
   "lastOpenFiles": [
+    "Note personali/18-03-2026.md",
+    "Doppia Kenosi/Work/Google Docs.md",
     "La doppia Kenosi 1.md",
     "La doppia Kenosi.md",
     "Doppia Kenosi/Work/Re-Work Alberto.md",
-    "Doppia Kenosi/Work/Google Docs.md",
     "Doppia Kenosi/Risorse/9788870948547.pdf",
     "Doppia Kenosi/Risorse/platone_a_cura_di_giovanni_reale_tutti_gli_scribookzz-org.pdf",
-    "Note personali/18-03-2026.md",
     "Note personali",
     "README.md",
     "Doppia Kenosi/FONTI.md",
