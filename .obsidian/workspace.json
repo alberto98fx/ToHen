@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0c99322566935831",
+        "id": "65aa0c07bff2b427",
         "type": "tabs",
         "children": [
           {
-            "id": "96ceb6c85a523554",
+            "id": "c65c9f9ac2ac09c6",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,20 +19,6 @@
               },
               "icon": "lucide-file",
               "title": "Re-Work Alberto"
-            }
-          },
-          {
-            "id": "747d25523d7492d9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Note personali/18-03-2026.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "18-03-2026"
             }
           }
         ]
@@ -198,13 +184,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "96ceb6c85a523554",
+  "active": "c65c9f9ac2ac09c6",
   "lastOpenFiles": [
+    "Doppia Kenosi/Risorse/The darkness of God _ negativity in Christian mysticism _ -- Denys Turner, 1942- -- Pbk_ ed, Cambridge, 1998, ©1995 -- Cambridge University Press -- 9780511001956 -- eaee971a6f7a6d82ba682a90a9d7c022 -- Anna’s Archive.pdf",
     "Note personali/18-03-2026.md",
+    "Doppia Kenosi/Work/Google Docs.md",
+    "La doppia Kenosi 1.md",
+    "La doppia Kenosi.md",
+    "Doppia Kenosi/Work/Re-Work Alberto.md",
+    "Doppia Kenosi/Risorse/9788870948547.pdf",
+    "Doppia Kenosi/Risorse/platone_a_cura_di_giovanni_reale_tutti_gli_scribookzz-org.pdf",
     "Note personali",
     "README.md",
     "Doppia Kenosi/FONTI.md",
-    "Doppia Kenosi/Work/Re-Work Alberto.md",
     "Doppia Kenosi",
     "Doppia Kenosi/Ricerca/Versioni/v3/Opus/Opus_Completa_Tommaso.md",
     "Work/# LA DOPPIA KENOSI DEL LINGUAGGIO TEOLOGICO.md",
@@ -216,8 +208,6 @@
     "Doppia Kenosi/Risorse/Mancanti.md",
     "Doppia Kenosi/Risorse/tesi_di_dottorato_F_Piemonte.pdf",
     "Doppia Kenosi/Mappa/Mappa.canvas",
-    "Doppia Kenosi/Risorse/Quaderni+di+Noctua+V.pdf",
-    "Doppia Kenosi/Risorse/dalpraAnselmo.pdf",
     "Risorse/T.md",
     "Backups/v1/File_2_Kenosi_Cristologica.md",
     "Apparato_Critico_Filologico.md",
@@ -232,9 +222,6 @@
     "Doppia Kenosi/Ricerca/Misc/Colloquio con professore, trascritto.md",
     "Doppia Kenosi/Ricerca/Misc/Apparato_Critico_Filologico.md",
     "Doppia Kenosi/Ricerca/Intermedi/Gpt5.2-Pro-Write.md",
-    "Doppia Kenosi/Ricerca/Intermedi/File_4_Il_Paradosso_Generativo.md",
-    "Doppia Kenosi/Ricerca/Intermedi/File_3_Comparazione_Transculturale.md",
-    "Doppia Kenosi/Ricerca/Intermedi/File_2_Kenosi_Cristologica.md",
-    "Doppia Kenosi/Ricerca/Intermedi/File_1_Grammatica_Ineffabilita.md"
+    "Doppia Kenosi/Ricerca/Intermedi/File_4_Il_Paradosso_Generativo.md"
   ]
 }
